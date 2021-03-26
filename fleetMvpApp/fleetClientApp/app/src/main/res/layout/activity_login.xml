@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/loginImageView"
+        android:layout_width="48dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/logo_128"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/loginTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:letterSpacing="0.3"
+        android:text="FLEET"
+        android:textColor="@color/colorGray"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginImageView" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/login_owner_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Owner's Phone number"
+        android:textColor="@color/colorGray"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/login_owner_contact"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:visibility="gone"
+        android:id="@+id/login_owner_contact"
+        android:layout_width="0dp"
+        android:textSize="24sp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="64dp"
+        android:inputType="phone"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/loginImageProgress"
+        android:layout_width="48dp"
+        android:layout_height="58dp"
+        android:src="@drawable/logo_128"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/login_owner_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorGray"
+        android:text="Owner Details"
+        android:textSize="20dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginTextView" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/login_owner_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_owner_label" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/login_driver_name_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Driver Name"
+        android:textSize="22dp"
+        android:textColor="@color/colorGray"
+        android:layout_marginTop="64dp"
+        android:layout_marginLeft="32dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_owner_details"/>
+
+    <EditText
+        android:visibility="gone"
+        android:id="@+id/login_driver_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_driver_name_label"/>
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/login_driver_contact_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Driver Phone Number"
+        android:textSize="22dp"
+        android:textColor="@color/colorGray"
+        android:layout_marginTop="32dp"
+        android:layout_marginLeft="32dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_driver_name"/>
+
+    <EditText
+        android:visibility="gone"
+        android:id="@+id/login_driver_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:maxLength="10"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_driver_contact_label"/>
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/login_button"
+        android:layout_width="match_parent"
+        android:layout_marginTop="48dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_height="60dp"
+        android:text="LOGIN"
+        android:letterSpacing="0.3"
+        android:background="@color/colorGray"
+        android:textColor="@android:color/white"
+        android:textSize="22sp"
+        app:layout_constraintTop_toBottomOf="@+id/login_driver_contact" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
