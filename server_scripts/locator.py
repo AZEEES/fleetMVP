@@ -115,7 +115,7 @@ def reverse_geocode_city(latitude, longitude):
 
 while(1):
     print("Script called")
-    time.sleep(5)
+    time.sleep(60)
     untagged_cities = get_untagged_cities()
     for untagged_city in untagged_cities:
         city_name, distance = reverse_geocode_city(untagged_city['latitude'], untagged_city['longitude'])
