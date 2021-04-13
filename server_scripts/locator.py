@@ -3,6 +3,7 @@ import pandas as pd
 import googlemaps 
 import json
 import math
+import time
 
 api_key = "AIzaSyAKmKRd6i8I_4PVNtZqBmj4hnGAaOy1RgQ"
 server_ip = "http://localhost:3000"
@@ -112,13 +113,15 @@ def reverse_geocode_city(latitude, longitude):
         distance = 0
     return city_name, distance
 
-untagged_cities = get_untagged_cities()
-
-for untagged_city in untagged_cities:
-    city_name, distance = reverse_geocode_city(untagged_city['latitude'], untagged_city['longitude'])
-    if(distance==0):
-        city_name = city_name
-    else:
-        city_name = str(distance) + " KM from " + city_name
-    tag_city(untagged_city, city_name)
-    print(city_name)
+while(1):
+    print("Script called")
+    time.sleep(5)
+    untagged_cities = get_untagged_cities()
+    for untagged_city in untagged_cities:
+        city_name, distance = reverse_geocode_city(untagged_city['latitude'], untagged_city['longitude'])
+        if(distance==0):
+            city_name = city_name
+        else:
+            city_name = str(distance) + " KM from " + city_name
+        tag_city(untagged_city, city_name)
+        print(city_name)
