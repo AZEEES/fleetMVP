@@ -37,6 +37,10 @@ import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -170,6 +174,8 @@ public class LocationUpdateService extends Service {
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
         Log.i(TAG, "Service started");
+//        startForeground(NOTIFICATION_ID, getNotification());
+//        Toast.makeText(this, "Location Updater service started", Toast.LENGTH_SHORT).show();
         boolean startedFromNotification = intent.getBooleanExtra(EXTRA_STARTED_FROM_NOTIFICATION,
                 false);
 
@@ -342,19 +348,30 @@ public class LocationUpdateService extends Service {
 
     private void onNewLocation(Location location) {
         Log.i(TAG, "New location: " + location);
-
         mLocation = location;
-//        Toast.makeText(getApplicationContext(), Utils.getLocationText(location), Toast.LENGTH_SHORT).show();
-        final Realm realm = Realm.getDefaultInstance();
-        realm.beginTransaction();
-        LocationLog locationLog = realm.createObject(LocationLog.class);
-        locationLog.setLatitude(Utils.getLatitude(location));
-        locationLog.setLongitude(Utils.getLongitude(location));
-//        Date currentTime = Calendar.getInstance().getTime();
-        locationLog.setTimestamp(getCurrentDatetime());
-        realm.commitTransaction();
-        realm.close();
-        updateData();
+        final FleetClientApplication loggerApp = ((FleetClientApplication) getApplicationContext());
+        String access = loggerApp.getAccess();
+        if(access.equals("yes")) {
+            final Realm realm = Realm.getDefaultInstance();
+            realm.beginTransaction();
+            LocationLog locationLog = realm.createObject(LocationLog.class);
+            locationLog.setLatitude(Utils.getLatitude(location));
+            locationLog.setLongitude(Utils.getLongitude(location));
+            locationLog.setTimestamp(getCurrentDatetime());
+            realm.commitTransaction();
+            realm.close();
+        }
+        if(access.equals("no")){
+            final Realm realm = Realm.getDefaultInstance();
+            realm.beginTransaction();
+            final RealmResults<LocationLog> locationLog = realm.where(LocationLog.class).findAll();
+            locationLog.deleteAllFromRealm();
+            realm.commitTransaction();
+            realm.close();
+        }
+        checkAccess();
+//        updateData();
+
 
 
         // Notify anyone listening for broadcasts about the new location.
@@ -366,6 +383,52 @@ public class LocationUpdateService extends Service {
         if (serviceIsRunningInForeground(this)) {
             mNotificationManager.notify(NOTIFICATION_ID, getNotification());
         }
+    }
+
+    private void checkAccess(){
+        final Realm realm = Realm.getDefaultInstance();
+        realm.beginTransaction();
+        final RealmResults<Credentials> credentials = realm.where(Credentials.class).findAll();
+        final String driver_contact = credentials.get(0).getDriverContact();
+        final FleetClientApplication loggerApp = ((FleetClientApplication) getApplicationContext());
+        String server_ip = loggerApp.get_Server_IP();
+        final String url = "http://" + server_ip + "/api/driver/check_access";
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, url,
+                new Response.Listener<String>() {
+                    @Override
+                    public void onResponse(String response) {
+                        try {
+                            JSONArray jsonArray = new JSONArray(response.toString());
+                            Log.v(TAG, jsonArray.toString());
+                            JSONObject jsonObject = new JSONObject(jsonArray.get(0).toString());
+                            String access = jsonObject.getString("access");
+                            loggerApp.setAccess(access);
+                            if(access.equals("yes")){
+                                updateData();
+                            }
+                        }
+                        catch (JSONException exception){
+                            Toast.makeText(loggerApp, "Access not available", Toast.LENGTH_SHORT).show();
+                        }
+                    }
+                },
+                new Response.ErrorListener() {
+                    @Override
+                    public void onErrorResponse(VolleyError error) {
+                        Toast.makeText(getApplicationContext(), "Server issue" + error.toString(), Toast.LENGTH_LONG)
+                                .show();
+                    }
+                }) {
+            @Override
+            protected Map<String, String> getParams() {
+                Map<String, String> params = new HashMap<String, String>();
+                params.put("driver_id", driver_contact);
+                return params;
+            }
+        };
+        RequestQueue requestQueue = Volley.newRequestQueue(getApplicationContext());
+        requestQueue.add(stringRequest);
+        realm.close();
     }
 
     private void updateData(){
@@ -409,6 +472,7 @@ public class LocationUpdateService extends Service {
                     params.put("latitude", latitude);
                     params.put("longitude", longitude);
                     params.put("timestamp", timestamp);
+                    params.put("city_name", "NA");
                     return params;
                 }
             };

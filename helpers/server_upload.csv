@@ -1,0 +1,1216 @@
+latitude,longitude,city_name,location_type
+19.0759837,72.8776559,"Mumbai, Maharashtra, India",L0
+28.6862738,77.2217831,"Delhi, India",L0
+12.9715987,77.5945627,"Bengaluru, Karnataka, India",L0
+23.022505,72.5713621,"Ahmedabad, Gujarat, India",L0
+17.385044,78.486671,"Hyderabad, Telangana, India",L0
+13.0826802,80.2707184,"Chennai, Tamil Nadu, India",L0
+22.572646,88.36389500000000,"Kolkata, West Bengal, India",L0
+18.5204303,73.8567437,"Pune, Maharashtra, India",L0
+26.9124336,75.7872709,"Jaipur, Rajasthan, India",L0
+21.1702401,72.83106070000000,"Surat, Gujarat, India",L0
+26.8466937,80.94616600000000,"Lucknow, Uttar Pradesh, India",L0
+26.449923,80.3318736,"Kanpur, Uttar Pradesh, India",L0
+21.1458004,79.0881546,"Nagpur, Maharashtra, India",L0
+25.5940947,85.1375645,"Patna, Bihar, India",L0
+22.7195687,75.8577258,"Indore, Madhya Pradesh, India",L0
+19.2183307,72.9780897,"Thane, Maharashtra, India",L0
+23.2599333,77.412615,"Bhopal, Madhya Pradesh, India",L0
+17.6868159,83.2184815,"Visakhapatnam, Andhra Pradesh, India",L0
+22.3071588,73.1812187,"Vadodara, Gujarat, India",L0
+27.1591961,78.3957331,"Firozabad, Uttar Pradesh, India",L0
+30.900965,75.8572758,"Ludhiana, Punjab, India",L0
+22.3038945,70.80215990000000,"Rajkot, Gujarat, India",L0
+27.1766701,78.00807450000000,"Agra, Uttar Pradesh, India",L0
+26.7271012,88.39528610000000,"Siliguri, West Bengal, India",L0
+19.9974533,73.78980230000000,"Nashik, Maharashtra, India",L0
+28.4089123,77.3177894,"Faridabad, Haryana, India",L0
+30.3397809,76.3868797,"Patiala, Punjab, India",L0
+28.9844618,77.7064137,"Meerut, Uttar Pradesh, India",L0
+19.2403305,73.1305395,"Kalyan, Maharashtra, India",L0
+19.3919275,72.8397317,"Vasai-Virar, Maharashtra, India",L0
+25.3176452,82.9739144,"Varanasi, Uttar Pradesh, India",L0
+34.0836708,74.7972825,Srinagar,L0
+23.7956531,86.43038590000000,"Dhanbad, Jharkhand, India",L0
+26.2389469,73.02430940000000,"Jodhpur, Rajasthan, India",L0
+31.6339793,74.8722642,"Amritsar, Punjab, India",L0
+21.2513844,81.62964130000000,"Raipur, Chhattisgarh, India",L0
+25.4358011,81.846311,"Prayagraj, Uttar Pradesh, India",L0
+11.0168445,76.9558321,"Coimbatore, Tamil Nadu, India",L0
+23.181467,79.9864071,"Jabalpur, Madhya Pradesh, India",L0
+26.2182871,78.18283080000000,"Gwalior, Madhya Pradesh, India",L0
+16.5061743,80.6480153,"Vijayawada, Andhra Pradesh, India",L0
+9.9252007,78.1197754,"Madurai, Tamil Nadu, India",L0
+26.1445169,91.7362365,"Guwahati, Assam, India",L0
+30.7333148,76.7794179,"Chandigarh, India",L0
+15.3647083,75.1239547,"Hubli, Karnataka, India",L0
+28.9051778,78.46731800000000,"Amroha, Uttar Pradesh 244221, India",L0
+28.8386481,78.7733286,"Moradabad, Uttar Pradesh, India",L0
+28.4594965,77.0266383,"Gurugram, Haryana, India",L0
+27.8973944,78.0880129,"Aligarh, Uttar Pradesh, India",L0
+17.6599188,75.9063906,"Solapur, Maharashtra, India",L0
+23.3440997,85.309562,"Ranchi, Jharkhand, India",L0
+31.3260152,75.57618290000000,"Jalandhar, Punjab, India",L0
+10.7904833,78.7046725,"Tiruchirappalli, Tamil Nadu, India",L0
+20.2960587,85.8245398,"Bhubaneswar, Odisha, India",L0
+11.664325,78.1460142,"Salem, Tamil Nadu, India",L0
+17.9689008,79.59405440000000,"Warangal, Telangana, India",L0
+19.2952325,72.8543897,"Mira Bhayandar, Maharashtra, India",L0
+8.5241391,76.9366376,"Thiruvananthapuram, Kerala, India",L0
+19.2812547,73.0482912,"Bhiwandi, Maharashtra, India",L0
+29.9680035,77.55520660000000,"Saharanpur, Uttar Pradesh, India",L0
+16.3066525,80.4365402,"Guntur, Andhra Pradesh, India",L0
+20.9319821,77.7523039,"Amravati, Maharashtra, India",L0
+28.0229348,73.3119159,"Bikaner, Rajasthan, India",L0
+28.5355161,77.3910265,"Noida, Uttar Pradesh, India",L0
+22.8045665,86.2028754,"Jamshedpur, Jharkhand, India",L0
+21.1938475,81.3509416,"Bhilai, Chhattisgarh, India",L0
+20.462521,85.8829895,"Cuttack, Odisha, India",L0
+9.9312328,76.26730410000000,"Kochi, Kerala, India",L0
+24.585445,73.712479,"Udaipur, Rajasthan, India",L0
+21.7644725,72.15193040000000,"Bhavnagar, Gujarat, India",L0
+30.3164945,78.03219180000000,"Dehradun, Uttarakhand, India",L0
+23.6888636,86.9660638,"Asansol, West Bengal, India",L0
+19.1428869,77.30372300000000,"Nanded-Waghala, Maharashtra, India",L0
+26.4498954,74.6399163,"Ajmer, Rajasthan, India",L0
+22.4707019,70.05773,"Jamnagar, Gujarat, India",L0
+23.1764665,75.7885163,"Ujjain, Madhya Pradesh, India",L0
+16.8523973,74.5814773,"Sangli, Maharashtra, India",L0
+28.7333526,77.2986264,"Loni, Ghaziabad, Uttar Pradesh 201102, India",L0
+25.4484257,78.5684594,"Jhansi, Uttar Pradesh, India",L0
+11.9415915,79.8083133,"Puducherry, India",L0
+14.4425987,79.98645600000000,"Nellore, Andhra Pradesh, India",L0
+32.7266016,74.8570259,Jammu,L0
+15.8496953,74.4976741,"Belgaum, Karnataka, India",L0
+22.260423,84.8535844,"Rourkela, Odisha, India",L0
+12.9141417,74.8559568,"Mangalore, Karnataka, India",L0
+8.713912600000000,77.7566523,"Tirunelveli, Tamil Nadu, India",L0
+20.5579034,74.5089457,"Malegaon, Maharashtra, India",L0
+24.7913957,85.0002336,"Gaya, Bihar, India",L0
+11.1085242,77.3410656,"Tiruppur, Tamil Nadu, India",L0
+14.4644085,75.921758,"Davanagere, Karnataka, India",L0
+11.2587531,75.78041,"Kozhikode, Kerala, India",L0
+20.7002159,77.0081678,"Akola, Maharashtra, India",L0
+15.8281257,78.0372792,"Kurnool, Andhra Pradesh, India",L0
+23.6692956,86.15111200000000,"Bokaro Steel City, Jharkhand, India",L0
+17.0005383,81.8040345,"Rajahmundry, Andhra Pradesh, India",L0
+15.1393932,76.9214428,"Ballari, Karnataka, India",L0
+23.831457,91.2867777,"Agartala, Tripura, India",L0
+25.242453,86.9842256,"Bhagalpur, Bihar, India",L0
+18.4087934,76.5603828,"Latur, Maharashtra, India",L0
+20.9042201,74.7748979,"Dhule, Maharashtra, India",L0
+22.3594501,82.75005950000000,"Korba, Chhattisgarh, India",L0
+25.3407388,74.63131830000000,"Bhilwara, Rajasthan, India",L0
+19.3149618,84.7940911,"Brahmapur, Odisha, India",L0
+12.2958104,76.6393805,"Mysuru, Karnataka, India",L0
+26.1196607,85.390982,"Muzaffarpur, Bihar, India",L0
+19.0948287,74.74797890000000,"Ahmednagar, Maharashtra, India",L0
+8.8932118,76.6141396,"Kollam, Kerala, India",L0
+24.458656,88.06129180000000,"Raghunathganj, West Bengal, India",L0
+22.0796545,82.1409152,"Bilaspur, Chhattisgarh 495001, India",L0
+27.8753399,79.9147268,"Shahjahanpur, Uttar Pradesh, India",L0
+10.5276416,76.2144349,"Thrissur, Kerala, India",L0
+27.5529907,76.6345735,"Alwar, Rajasthan, India",L0
+16.9890648,82.2474648,"Kakinada, Andhra Pradesh, India",L0
+18.6725047,78.09408670000000,"Nizamabad, Telangana, India",L0
+23.838805,78.7378068,"Sagar, Madhya Pradesh, India",L0
+13.3378762,77.117325,"Tumakuru, Karnataka, India",L0
+29.1491875,75.7216527,"Hisar, Haryana, India",L0
+28.8955152,76.606611,"Rohtak, Haryana, India",L0
+29.3909464,76.9635023,"Panipat, Haryana, India",L0
+26.1542045,85.8918454,"Darbhanga, Bihar, India",L0
+22.34601,87.2319753,"Kharagpur, West Bengal, India",L0
+23.7307175,92.71731060000000,"Aizawl, Mizoram, India",L0
+16.688621,74.4593101,"Ichalkaranji, Maharashtra, India",L0
+13.6287557,79.4191795,"Tirupati, Andhra Pradesh, India",L0
+29.6856929,76.9904825,"Karnal, Haryana, India",L0
+30.210994,74.9454745,"Bathinda, Punjab, India",L0
+28.798299,79.02202870000000,"Rampur, Uttar Pradesh 244901, India",L0
+13.9299299,75.568101,"Shivamogga, Karnataka, India",L0
+23.3315103,75.0366677,"Ratlam, Madhya Pradesh 457001, India",L0
+28.8344396,77.5698527,"Modinagar, Uttar Pradesh, India",L0
+21.1904494,81.2849169,"Durg, Chhattisgarh, India",L0
+25.5787726,91.8932535,"Shillong, Meghalaya, India",L0
+24.8170111,93.9368439,"Imphal, Manipur, India",L0
+28.73057980000000,77.7758825,"Hapur, Uttar Pradesh, India",L0
+12.9487403,79.318978,"Ranipet, Tamil Nadu, India",L0
+14.6818877,77.6005911,"Anantapur, Andhra Pradesh, India",L0
+25.5541358,84.6664797,"Arrah, Bihar, India",L0
+18.4385553,79.1288412,"Karimnagar, Telangana, India",L0
+19.2608384,76.774776,"Parbhani, Maharashtra, India",L0
+26.7829103,79.027659,"Etawah, Uttar Pradesh, India",L0
+27.2151863,77.5029996,"Bharatpur, Rajasthan, India",L0
+25.4181638,86.1271542,"Begusarai, Bihar, India",L0
+28.6139391,77.2090212,"New Delhi, Delhi, India",L0
+25.7811397,84.7543413,"Chapra, Bihar, India",L0
+14.4673154,78.8242089,"Kadapa, Andhra Pradesh, India",L0
+18.7518652,79.5133701,"Ramagundam, Telangana, India",L0
+25.7780623,73.331147,"Pali, Rajasthan 306401, India",L0
+24.6005075,80.8322428,"Satna, Madhya Pradesh, India",L0
+18.1066576,83.39555060000000,"Vizianagaram, Andhra Pradesh, India",L0
+25.5540648,87.5591073,"Katihar, Bihar, India",L0
+29.9456906,78.16424780000000,"Haridwar, Uttarakhand, India",L0
+28.99308230000000,77.0150735,"Sonipat, Haryana, India",L0
+8.183285700000000,77.4118996,"Nagercoil, Tamil Nadu, India",L0
+10.7869994,79.13782740000000,"Thanjavur, Tamil Nadu, India",L0
+23.8343441,80.38938140000000,"Katni, Madhya Pradesh, India",L0
+22.8895189,88.4219729,"Naihati, Kolkata, West Bengal, India",L0
+28.5903614,78.5717631,"Sambhal, Uttar Pradesh, India",L0
+22.6915853,72.86336350000000,"Nadiad, Gujarat, India",L0
+30.1290485,77.2673901,"Yamuna Nagar, Haryana, India",L0
+25.0108408,88.14109670000000,"Malda, West Bengal 732101, India",L0
+16.7106604,81.0952431,"Eluru, Andhra Pradesh, India",L0
+25.3707993,86.47339030000000,"Munger, Bihar 811201, India",L0
+30.6942091,76.860565,"Panchkula, Haryana, India",L0
+16.216018,77.3565608,"Raichur, Karnataka, India",L0
+18.9894007,73.1175162,"Panvel, Navi Mumbai, Maharashtra, India",L0
+24.485179,86.694785,"Deoghar, Jharkhand, India",L0
+15.5057232,80.049922,"Ongole, Andhra Pradesh, India",L0
+15.4776876,78.487285,"Nandyala, Andhra Pradesh, India",L0
+26.4947172,77.9940222,"Morena, Madhya Pradesh 476001, India",L0
+28.7974684,76.1322058,"Bhiwani, Haryana, India",L0
+21.6416979,69.62930590000000,"Porbandar, Gujarat, India",L0
+10.7867303,76.6547932,"Palakkad, Kerala, India",L0
+22.5645175,72.928871,"Anand, Gujarat, India",L0
+25.7771391,87.4752551,"Purnia, Bihar, India",L0
+24.0982607,88.268411,"Berhampore, West Bengal, India",L0
+25.7521467,71.3966865,"Barmer, Rajasthan 344001, India",L0
+22.8251874,70.84908090000000,"Morbi, Gujarat, India",L0
+25.987523,79.4488695,"Orai, Uttar Pradesh 285001, India",L0
+27.5705152,81.59766720000000,"Bahraich, Uttar Pradesh, India",L0
+27.6093912,75.1397935,"Sikar, Rajasthan, India",L0
+12.9165167,79.13249860000000,"Vellore, Tamil Nadu, India",L0
+24.1992101,82.66454690000000,"Singrauli, Madhya Pradesh, India",L0
+17.2472528,80.1514447,"Khammam, Telangana, India",L0
+23.5879607,72.36932520000000,"Mehsana, Gujarat, India",L0
+24.8332708,92.7789054,"Silchar, Assam, India",L0
+21.4668716,83.9811665,"Sambalpur, Odisha, India",L0
+24.5362477,81.30369460000000,"Rewa, Madhya Pradesh, India",L0
+26.5393449,80.4878195,"Unnao, Uttar Pradesh, India",L0
+22.9011588,88.3898552,"Chinsurah, West Bengal, India",L0
+25.6328682,88.13190570000000,"Raiganj, West Bengal, India",L0
+23.7622641,86.0020693,"Phusro, Jharkhand, India",L0
+22.7866185,86.16596900000000,"Adityapur, Jamshedpur, Jharkhand, India",L0
+9.498066700000000,76.3388484,"Alappuzha, Kerala, India",L0
+28.6913756,76.9314064,"Bahadurgarh, 124507, India",L0
+16.1808917,81.1302716,"Machilipatnam, Andhra Pradesh, India",L0
+26.2144806,81.25281390000000,"Raebareli, Uttar Pradesh, India",L0
+26.5214579,88.7195567,"Jalpaiguri, West Bengal, India",L0
+21.7051358,72.9958748,"Bharuch, Gujarat, India",L0
+32.2733352,75.6522066,"Pathankot, Punjab 145001, India",L0
+31.5143178,75.911483,"Hoshiarpur, Punjab, India",L0
+34.1595145,74.35874730000000,Baramulla,L0
+15.6318824,77.27588330000000,"Adoni, Andhra Pradesh, India",L0
+29.325508,76.29979090000000,"Jind, Haryana, India",L0
+26.1659063,75.7962852,"Tonk, Rajasthan 304001, India",L0
+16.237933,80.6444099,"Tenali, Andhra Pradesh, India",L0
+12.818456,79.6946586,"Vedachalam Nagar Extension, Kanchipuram, Tamil Nadu 631502, India",L0
+20.3893155,72.9106202,"Vapi, Gujarat, India",L0
+29.5320731,75.03177340000000,"Sirsa, Haryana 125055, India",L0
+20.9467019,72.95203480000000,"Navsari, Gujarat, India",L0
+16.7488379,78.00351720000000,"Mahbubnagar, Telangana 509001, India",L0
+19.8134554,85.8312359,"Puri, Odisha, India",L0
+12.9551189,78.26986220000000,"Robertsonpet, Karnataka, India",L0
+11.3410364,77.7171642,"Erode, Tamil Nadu, India",L0
+31.8195248,75.20358760000000,"Batala, Punjab, India",L0
+29.2182644,79.5129767,"Haldwani, Uttarakhand 263139, India",L0
+23.5235719,77.81397180000000,"Vidisha, Madhya Pradesh 464001, India",L0
+25.8773651,86.5927887,"Saharsa, Bihar, India",L0
+29.9698827,76.8192941,"Thanesar, Haryana, India",L0
+13.217176,79.1003289,"Chittoor, Andhra Pradesh, India",L0
+20.9158979,70.3628516,"Veraval, Gujarat, India",L0
+27.9462395,80.7787163,"Lakhimpur, Uttar Pradesh, India",L0
+27.5680156,80.6789519,"Sitapur, Uttar Pradesh 261001, India",L0
+13.8222599,77.5009298,"Hindupuram, Andhra Pradesh, India",L0
+23.2645399,88.4380966,"Santipur, West Bengal 741404, India",L0
+25.2372834,88.7830612,"Balurghat, West Bengal, India",L0
+23.8493926,77.93709680000000,"Ganj Basoda, Madhya Pradesh 464221, India",L0
+30.8230114,75.17344710000000,"Moga, Punjab 142001, India",L0
+14.752624,78.5541053,"Proddatur, Andhra Pradesh, India",L0
+30.2246751,78.7986181,"Srinagar, Uttarakhand, India",L0
+22.4256613,87.3198819,"Midnapore, West Bengal, India",L0
+22.8408094,88.6535105,"Habra, West Bengal, India",L0
+24.9538803,84.01428660000000,"Sasaram, Bihar 821115, India",L0
+25.6924354,85.20832400000000,"Hajipur, Bihar, India",L0
+23.2419997,69.6669324,"Bhuj, Gujarat, India",L0
+25.4320478,77.66438150000000,"Shivpuri, Madhya Pradesh 473551, India",L0
+23.1744548,88.5605732,"Ranaghat, West Bengal, India",L0
+31.1048145,77.17340330000000,"Shimla, Himachal Pradesh, India",L0
+12.2252841,79.07469570000000,"Tiruvannamalai, Tamil Nadu, India",L0
+29.8042758,76.4039016,"Kaithal, Haryana 136027, India",L0
+21.0972123,81.03375010000000,"Gol Bazar, Rajnandgaon, Chhattisgarh 491441, India",L0
+22.7788044,73.6142795,"Godhra, Gujarat, India",L0
+23.9924669,85.3636758,"Hazaribagh, Jharkhand, India",L0
+16.544893,81.521241,"Bhimavaram, Andhra Pradesh, India",L0
+24.0734356,75.0679018,"Mandsaur, Madhya Pradesh, India",L0
+27.4728327,94.9119621,"Dibrugarh, Assam, India",L0
+13.1362143,78.12909860000000,"Kolar, Karnataka, India",L0
+23.2312686,87.07838750000000,"Bankura, West Bengal, India",L0
+12.5218157,76.89514880000000,"Mandya, Karnataka, India",L0
+24.9061239,84.191193,"Dehri, Bihar, India",L0
+13.5560496,78.50100070000000,"Madanapalle, Andhra Pradesh, India",L0
+30.5245806,75.8783443,"Malerkotla, Punjab 148023, India",L0
+24.6911707,78.4138183,"Lalitpur, Uttar Pradesh 284403, India",L0
+26.8025577,84.520147,"Bettiah, Bihar, India",L0
+10.6608925,77.00475900000000,"Pollachi, Tamil Nadu 642001, India",L0
+30.70707690000000,76.2169907,"Khanna, Punjab, India",L0
+24.4737663,74.8726497,"Neemuch, Madhya Pradesh 458441, India",L0
+28.1472852,77.3259878,"Palwal, Haryana 121102, India",L0
+24.1724338,72.434581,"Palanpur, Gujarat 385001, India",L0
+15.1660706,77.3769836,"Guntakal, Andhra Pradesh, India",L0
+23.4036694,88.3658569,"Nabadwip, West Bengal, India",L0
+13.3408807,74.7421427,"Udupi, Karnataka, India",L0
+19.0853926,82.018317,"Jagdalpur, Chhattisgarh 494001, India",L0
+26.6438482,84.9040337,"Motihari, Bihar, India",L0
+28.62494,79.8075272,"Pilibhit, Uttar Pradesh 262001, India",L0
+25.9091406,93.72656050000000,"Dimapur, Nagaland, India",L0
+30.7046486,76.71787260000000,"Sahibzada Ajit Singh Nagar, Punjab, India",L0
+28.6353435,75.3820239,"Sadulpur, Rajasthan 331023, India",L0
+9.451484300000000,77.55434250000000,"Rajapalayam, Tamil Nadu, India",L0
+14.4124551,77.7201031,"Dharmavaram, Andhra Pradesh, India",L0
+29.2104232,78.9618845,"Kashipur, Uttarakhand 244713, India",L0
+9.4532852,77.80241700000000,"Sivakasi, Tamil Nadu, India",L0
+27.0410218,88.2662745,"Darjeeling, West Bengal, India",L0
+13.3161441,75.7720439,"Chikmagalur, Karnataka, India",L0
+16.4344461,80.9931388,"Gudivada, Andhra Pradesh, India",L0
+21.4933578,86.9134794,"Balasore, Odisha, India",L0
+18.8713826,79.4443099,"Mancherial, Telangana, India",L0
+18.2949165,83.89380180000000,"Srikakulam, Andhra Pradesh, India",L0
+19.6640624,78.5320107,"Adilabad(U), Telangana 504001, India",L0
+20.3899385,78.1306846,"Yavatmal, Maharashtra, India",L0
+30.3819446,75.5467979,"Barnala, Punjab, India",L0
+26.348009,92.6838111,"Nagaon, Assam, India",L0
+16.2359181,80.04964990000000,"Narasaraopeta, Andhra Pradesh 522601, India",L0
+21.8974003,83.39496320000000,"Raigarh, Chhattisgarh 496001, India",L0
+29.8542626,77.8880002,"Roorkee, Uttarakhand, India",L0
+20.5992349,72.9342451,"Valsad, Gujarat, India",L0
+23.1294374,83.1861138,"Ambikapur, Chhattisgarh, India",L0
+24.19135,86.2996368,"Giridih, Jharkhand, India",L0
+28.4558235,78.7849815,"Chandausi, Uttar Pradesh 244412, India",L0
+23.3322026,86.3616405,"Purulia, West Bengal, India",L0
+23.8500156,72.1210274,"Patan, Gujarat, India",L0
+27.1221959,84.0722375,"Bagaha, Bihar, India",L0
+27.3965071,80.1250479,"Hardoi, Uttar Pradesh, India",L0
+21.257584,77.5086754,"Achalpur, Maharashtra, India",L0
+18.185332,76.0419642,"Osmanabad, Maharashtra 413501, India",L0
+24.2585055,72.1906739,"Deesa, Gujarat, India",L0
+21.3700906,74.240336,"Nandurbar, Maharashtra 425412, India",L0
+26.0739138,83.18594950000000,"Azamgarh, Uttar Pradesh, India",L0
+23.6362593,85.5124209,"Ramgarh Cantonment, Jharkhand, India",L0
+30.9331348,74.6224755,"Firozpur, Punjab, India",L0
+21.9319838,86.7465928,"Baripada, Odisha, India",L0
+14.8184812,74.1416127,"Karwar, Karnataka, India",L0
+26.2243204,84.3599953,"Siwan, Bihar, India",L0
+14.1969204,79.1554591,"Rajampet, Andhra Pradesh, India",L0
+10.3832867,78.800129,"Pudukkottai, Tamil Nadu 622003, India",L0
+33.7311255,75.14870070000000,Anantnag,L0
+14.9091024,78.0092047,"Tadipatri, Andhra Pradesh 515411, India",L0
+17.6804639,74.018261,"Satara, Maharashtra, India",L0
+21.0573616,86.4962996,"Bhadrak, Odisha, India",L0
+26.0982167,87.9450379,"Kishanganj, Bihar, India",L0
+17.1313756,79.6336242,"Suryapet, Telangana, India",L0
+20.745319,78.60219460000000,"Wardha, Maharashtra, India",L0
+14.615399,75.6288239,"Ranebennur, Karnataka 581115, India",L0
+21.6015242,71.2203555,"Amreli, Gujarat 365601, India",L0
+11.6126157,79.4990808,"Neyveli T.S, Tamil Nadu, India",L0
+25.3180386,86.49340650000000,"Jamalpur, Bihar, India",L0
+15.3889087,73.81656680000000,"Mormugao, Goa, India",L0
+18.3942882,77.11260090000000,"Udgir, Maharashtra 413517, India",L0
+16.8072523,81.5316033,"Tadepalligudem, Andhra Pradesh, India",L0
+10.7672313,79.8448512,"Nagapattinam, Tamil Nadu, India",L0
+25.5647103,83.9777482,"Buxar, Bihar, India",L0
+19.8761653,75.3433139,"Aurangabad, Maharashtra, India",L0
+25.2132649,84.9853322,"Jahanabad, Bihar, India",L0
+31.2231589,75.7670466,"Phagwara, Punjab, India",L0
+27.9391956,77.84244560000000,"Khair, Uttar Pradesh 202138, India",L0
+26.012373,76.3560109,"Sawai Madhopur, Rajasthan, India",L0
+31.3722571,75.4017654,"Kapurthala, Punjab, India",L0
+16.0948008,80.1656205,"Chilakaluripet, Andhra Pradesh 522616, India",L0
+24.7033198,84.3542049,"Aurangabad, Bihar, India",L0
+11.0509762,76.0710967,"Malappuram, Kerala, India",L0
+28.1919738,76.6190774,"Rewari, Haryana 123401, India",L0
+27.1983368,73.7493272,"Nagaur, Rajasthan 341001, India",L0
+26.2585371,82.06598580000000,"Sultanpur, Uttar Pradesh, India",L0
+23.4561435,75.42266650000000,"Nagda, Madhya Pradesh, India",L0
+11.6233774,92.7264828,"Port Blair, Andaman and Nicobar Islands, India",L0
+25.1571454,86.0951592,"Lakhisarai, Bihar, India",L0
+15.4909301,73.8278496,"Panaji, Goa, India",L0
+27.4885539,95.355758,"Tinsukia, Assam, India",L0
+22.6114536,77.7623321,"Itarsi, Madhya Pradesh, India",L0
+25.6751129,94.10859980000000,"Kohima, Nagaland, India",L0
+20.7011108,83.4846069,"Balangir, Odisha, India",L0
+24.8866859,85.54345720000000,"Nawada, Bihar, India",L0
+21.8554375,84.0061661,"Jharsuguda, Odisha, India",L0
+18.7894881,78.91204590000000,"Jagtial, Telangana, India",L0
+11.9401378,79.4861449,"Viluppuram, Tamil Nadu, India",L0
+21.0419208,75.0581943,"Amalner, Maharashtra, India",L0
+30.6425496,76.8173359,"Zirakpur, Punjab, India",L0
+26.5432647,82.66454690000000,"Tanda, Uttar Pradesh 224190, India",L0
+11.3806005,77.8943515,"Tiruchengode, Tamil Nadu 637211, India",L0
+29.4426409,78.4326638,"Nagina, Uttar Pradesh 246762, India",L0
+15.7641991,77.4759334,"Yemmiganur, Andhra Pradesh 518360, India",L0
+12.6858413,78.61775230000000,"Vaniyambadi, Tamil Nadu 635751, India",L0
+22.1186557,78.1663346,"Sarni, Madhya Pradesh 460447, India",L0
+10.0018339,77.46276640000000,"Theni Allinagaram, Tamil Nadu, India",L0
+15.2832187,73.98619100000000,"Margao, Goa, India",L0
+21.0973361,77.053568,"Akot, Maharashtra 444101, India",L0
+23.2032399,77.0844044,"Sehore, Madhya Pradesh 466001, India",L0
+22.5505029,75.7625071,"Dr. Ambedkar Nagar, Madhya Pradesh, India",L0
+30.582825,74.8150431,"Kot Kapura, Punjab, India",L0
+27.0285581,74.714621,"Makrana, Rajasthan, India",L0
+17.6805816,75.31550350000000,"Pandharpur, Maharashtra 413304, India",L0
+16.8738909,79.56616940000000,"Miryalaguda, Telangana 508207, India",L0
+29.4501986,77.3172046,"Shamli, Uttar Pradesh 247776, India",L0
+22.0868691,79.5434841,"Seoni, Madhya Pradesh 480661, India",L0
+14.615399,75.6288239,"Ranebennur, Karnataka 581115, India",L0
+14.1137566,78.1610702,"Kadiri, Andhra Pradesh, India",L0
+19.6194767,74.65674070000000,"Shrirampur, Maharashtra, India",L0
+28.9875082,79.4141214,"Rudrapur, Uttarakhand, India",L0
+18.8453169,76.5198462,"Parli Vaijnath, Maharashtra, India",L0
+29.6123401,78.3441643,"Najibabad, Uttar Pradesh, India",L0
+19.0964117,78.342975,"Nirmal, Telangana, India",L0
+11.4102038,76.6950324,"Ooty, Tamil Nadu, India",L0
+27.1046449,78.58701120000000,"Shikohabad, Uttar Pradesh, India",L0
+24.4314764,85.5309898,"Jhumri Telaiya, Jharkhand 825409, India",L0
+9.5139114,78.100168,"Aruppukkottai, Tamil Nadu, India",L0
+10.7677201,75.92590130000000,"Ponnani, Kerala, India",L0
+24.9195147,86.224718,"Jamui, Bihar, India",L0
+26.5886976,85.5012971,"Sitamarhi, Bihar, India",L0
+15.8166616,80.35869,"Chirala, Andhra Pradesh, India",L0
+23.1166716,70.0281023,"Anjar, Gujarat 370110, India",L0
+10.9254398,79.8380056,"Karaikal, Puducherry, India",L0
+29.0972618,75.9638162,"Hansi, Haryana 125033, India",L0
+17.6896435,83.0023634,"Anakapalle, Andhra Pradesh, India",L0
+21.1124067,82.09596200000000,"Mahasamund, Chhattisgarh 493445, India",L0
+30.6769462,74.7583351,"Faridkot, Punjab, India",L0
+23.6586435,85.3444725,"Saunda Basti, Jharkhand, India",L0
+21.7398165,70.4491417,"Dhoraji, Gujarat 360410, India",L0
+9.5493536,78.5890663,"Paramakudi, Tamil Nadu, India",L0
+21.812876,80.18382930000000,"Balaghat, Madhya Pradesh, India",L0
+27.7044756,74.4642861,"Sujangarh, Rajasthan, India",L0
+22.3180817,72.6189845,"Khambhat, Gujarat, India",L0
+30.4761773,74.5121599,"Sri Muktsar Sahib, Punjab 152026, India",L0
+30.4765796,76.5905317,"Rajpura, Punjab 140401, India",L0
+14.9131806,79.9929798,"Kavali, Andhra Pradesh, India",L0
+20.7014999,81.55415790000000,"Dhamtari, Chhattisgarh, India",L0
+24.5775148,77.7318495,"Ashoknagar, Madhya Pradesh, India",L0
+28.440419,74.49370500000000,"Sardarshahar, Rajasthan 331403, India",L0
+21.0921598,71.7704631,"Mahuva, Gujarat 364290, India",L0
+21.3470154,83.6320212,"Bargarh, Odisha, India",L0
+18.3204832,78.3369523,"Kamareddy, Telangana 503111, India",L0
+25.2381216,87.64535920000000,"Sahibganj, Jharkhand 816109, India",L0
+17.5559725,80.6169577,"Kothagudem, Telangana, India",L0
+12.7208614,77.27989630000000,"Ramanagara, Karnataka 562159, India",L0
+16.1591849,74.8156199,"Gokak, Karnataka, India",L0
+24.7456147,78.8320779,"Tikamgarh, Madhya Pradesh 472001, India",L0
+26.1324689,87.4528067,"Araria, Bihar, India",L0
+30.0869281,78.2676116,"Rishikesh, Uttarakhand, India",L0
+23.300232,81.3568619,"Shahdol, Madhya Pradesh, India",L0
+24.0465121,84.07684620000000,"Daltonganj, Jharkhand 822101, India",L0
+13.0840593,79.6704128,"Arakkonam, Tamil Nadu, India",L0
+20.1119123,77.1312586,"Washim, Maharashtra 444505, India",L0
+30.2457963,75.8420716,"Sangrur, Punjab 148001, India",L0
+18.6794407,77.87674420000000,"Bellal Tarafa (Bodhan Rural), Telangana, India",L0
+30.4036478,74.0279621,"Fazilka, Punjab 152123, India",L0
+16.5179401,81.72534740000000,"Palakollu, Andhra Pradesh, India",L0
+21.2997164,70.2492882,"Keshod, Gujarat 362220, India",L0
+13.7008756,80.0209065,"Sullurupeta, Andhra Pradesh 524121, India",L0
+22.711454,71.6732681,"Wadhwan, Surendranagar, Gujarat, India",L0
+32.0413917,75.403086,"Gurdaspur, Punjab 143521, India",L0
+11.601558,75.5919758,"Vatakara, Kerala, India",L0
+25.5140712,90.2032141,"Tura, Meghalaya, India",L0
+28.0687645,76.10678900000000,"Narnaul, Haryana 123001, India",L0
+30.7498676,76.64110940000000,"Kharar, Punjab 140301, India",L0
+16.7625516,77.1442251,"Yadgir, Karnataka, India",L0
+18.7271336,76.3810922,"Ambajogai, Maharashtra 431517, India",L0
+21.6264236,73.0151984,"Ankleshwar, Gujarat, India",L0
+21.3376984,71.3052383,"Savar Kundla, Gujarat 364515, India",L0
+20.3165523,86.6113628,"Paradeep, Odisha, India",L0
+11.515868,79.3268894,"Virudhachalam, Tamil Nadu 606001, India",L0
+12.3310887,75.09150800000000,"Kanhangad, Kerala, India",L0
+23.2973208,72.33024210000000,"Kadi, Gujarat, India",L0
+9.5121171,77.63402130000000,"Srivilliputhur, Tamil Nadu 626125, India",L0
+30.66422800000000,76.29139050000000,"Mandi Gobindgarh, Punjab, India",L0
+12.2266754,79.65035430000000,"Tindivanam, Tamil Nadu 604001, India",L0
+29.9995069,75.3936808,"Mansa, Punjab 151505, India",L0
+12.035137,75.36109360000000,"Taliparamba, Kerala, India",L0
+20.2606546,74.4394646,"Manmad, Maharashtra 423104, India",L0
+16.7565815,81.6769714,"Tanuku, Andhra Pradesh, India",L0
+14.0586263,78.7519382,"Rayachoty, Andhra Pradesh, India",L0
+9.5680116,77.96244350000000,"Virudhunagar, Tamil Nadu, India",L0
+11.4428699,75.6976443,"Koyilandy, Kerala, India",L0
+26.7509207,94.2036696,"Jorhat, Assam, India",L0
+10.9600778,78.07660360000000,"Karur, Tamil Nadu, India",L0
+10.3269734,76.9553967,"Valparai, Tamil Nadu 642127, India",L0
+13.7527145,79.7066722,"Srikalahasti, Andhra Pradesh, India",L0
+8.4026673,77.0860939,"Neyyattinkara, Kerala, India",L0
+15.9039445,80.46713750000000,"Bapatla, Andhra Pradesh, India",L0
+29.5131814,75.4509532,"Fatehabad, Haryana 125050, India",L0
+30.1890199,74.4996955,"Malout, Punjab 152107, India",L0
+9.177796600000000,77.5351242,"Sankarankoil, Tamil Nadu 627756, India",L0
+8.959352000000000,77.316109,"Tenkasi, Tamil Nadu 627811, India",L0
+16.990215,73.31202330000000,"Ratnagiri, Maharashtra, India",L0
+16.4823017,75.12243,"Rabkavi Banhatti, Karnataka, India",L0
+28.4511246,77.6954889,"Sikandrabad, Uttar Pradesh, India",L0
+22.5474364,85.8025373,"Chaibasa, Jharkhand, India",L0
+23.1879502,82.354162,"Chirimiri, Chhattisgarh, India",L0
+17.598776,80.70640170000000,"Palwancha, Telangana, India",L0
+19.9074279,83.1641562,"Bhawanipatna, Odisha, India",L0
+9.174842200000000,76.50133520000000,"Kayamkulam, Kerala, India",L0
+22.611121,75.6772689,"Pithampur Industrial Area, Pithampur, Madhya Pradesh, India",L0
+30.3730177,76.1469551,"Nabha, Punjab 147201, India",L0
+27.6441382,79.9447096,"Shahabad, Uttar Pradesh 241124, India",L0
+20.6504753,85.5981223,"Dhenkanal, Odisha, India",L0
+17.0499403,74.2652471,"Uran Islampur, Maharashtra, India",L0
+26.4831584,84.43655,"Gopalganj, Bihar 841428, India",L0
+26.5030072,90.5535724,"Bongaigaon, Assam, India",L0
+10.4500374,77.5161356,"Palani, Tamil Nadu, India",L0
+19.9104257,77.568649,"Pusad, Maharashtra, India",L0
+34.2867629,74.4624013,Sopore 193201,L0
+28.7082793,77.656542,"Pilkhuwa, Uttar Pradesh 245304, India",L0
+31.4538668,74.9267599,"Tarn Taran Sahib, Punjab 143401, India",L0
+24.2182429,83.03460730000000,"Renukoot Colony, Hindalco Colony, Renukoot, Uttar Pradesh 231217, India",L0
+18.9871177,79.4791434,"Mandamarri, Telangana, India",L0
+17.1296741,76.94702200000000,"Shahabad, Karnataka, India",L0
+22.1053397,85.3789642,"Barbil, Odisha, India",L0
+18.8253384,78.7148047,"Korutla, Telangana 505326, India",L0
+26.3482938,86.0711661,"Madhubani, Bihar, India",L0
+22.8765026,87.7909507,"Arambag, West Bengal, India",L0
+29.1393132,76.6944877,"Gohana, Haryana 131301, India",L0
+27.6442908,74.38806990000000,"Ladnun, Rajasthan, India",L0
+10.4232271,79.3199985,"Pattukkottai, Tamil Nadu 614601, India",L0
+14.6196391,74.844077,"Sirsi, Karnataka, India",L0
+18.3892197,78.8014505,"Sircilla, Telangana 505301, India",L0
+22.2858078,87.9188533,"Tamluk, West Bengal, India",L0
+30.7923337,75.4670189,"Jagraon, Punjab 142026, India",L0
+22.5370343,88.33166970000000,"2, Alipore Rd, Alipur Zoological Garden, Alipore, Kolkata, West Bengal 700027, India",L0
+22.3059709,74.35581480000000,"Alirajpur, Madhya Pradesh 457887, India",L0
+17.2575756,77.5874633,"Tandur, Telangana 501141, India",L0
+13.9058635,79.8910459,"Naidupeta, Andhra Pradesh, India",L0
+12.4754424,78.58545530000000,"Tirupattur, Tamil Nadu 635653, India",L0
+29.7163129,75.9056753,"Tohana, Haryana 125120, India",L0
+26.2982541,74.2736848,"Ratangarh, Rajasthan, India",L0
+26.0206982,89.9743463,"Dhubri, Assam, India",L0
+25.3512814,85.0311411,"Masaurhi, Bihar 804452, India",L0
+23.7023775,72.5425606,"Visnagar, Gujarat 384315, India",L0
+27.5650088,77.6593394,"Vrindavan, Uttar Pradesh, India",L0
+27.5562169,73.47318710000000,"Nokha, Rajasthan 334803, India",L0
+13.3200519,79.585628,"Nagari, Andhra Pradesh 517590, India",L0
+29.5959853,76.1149662,"Narwana, Haryana 126116, India",L0
+9.3639356,78.8394819,"Ramanathapuram, Tamil Nadu, India",L0
+28.0003235,79.0051685,"Ujhani, Uttar Pradesh 243639, India",L0
+25.8560271,85.7868233,"Samastipur, Bihar 848101, India",L0
+27.710096,80.901416,"Laharpur, Uttar Pradesh 261135, India",L0
+19.5761174,74.2070191,"Sangamner, Maharashtra 422605, India",L0
+24.6256587,74.68102740000000,"Nimbahera, Rajasthan 312601, India",L0
+18.1017996,78.8519601,"Siddipet, Telangana, India",L0
+23.9129255,87.52683930000000,"Suri, West Bengal, India",L0
+25.846525,93.42987460000000,"Diphu, Assam, India",L0
+22.4549909,86.9974385,"Jhargram, West Bengal, India",L0
+21.370536,74.86825690000000,"Shirpur-Warwade, Maharashtra 425405, India",L0
+27.961879,79.73709380000000,"Tilhar, Uttar Pradesh 242307, India",L0
+15.7916883,76.6874701,"Sindhanur, Karnataka, India",L0
+10.5854779,77.2513453,"Udumalaipettai, Tamil Nadu, India",L0
+20.8843273,76.2026077,"Malkapur, Maharashtra, India",L0
+16.3623118,78.0621824,"Wanaparthy, Telangana 509103, India",L0
+14.1463424,79.85038090000000,"Gudur, Andhra Pradesh 524101, India",L0
+21.628933,85.5816847,"Keonjhar, Odisha, India",L0
+22.5979218,80.3713855,"Mandla, Madhya Pradesh, India",L0
+31.5892006,76.91820970000000,"Mandi, Himachal Pradesh, India",L0
+8.6080226,77.004626,"Nedumangad, Kerala, India",L0
+27.2253189,94.10533070000000,"North Lakhimpur, Assam, India",L0
+16.0568398,79.7453318,"Vinukonda, Andhra Pradesh 522647, India",L0
+13.259273,76.4785708,"Tiptur, Karnataka, India",L0
+11.4548248,77.4365368,"Kuthirai Vandi Theru, Gobichettipalayam, Tamil Nadu 638476, India",L0
+18.7298862,82.8317486,"Sunabeda, Odisha, India",L0
+20.0608371,78.9571069,"Wani, Maharashtra 445304, India",L0
+21.7395387,70.2795033,"Upleta, Gujarat, India",L0
+16.4329833,81.6966198,"Narsapur, Andhra Pradesh, India",L0
+16.7849906,80.8488498,"Nuzividu, Andhra Pradesh, India",L0
+26.6528495,92.7925592,"Tezpur, Assam, India",L0
+20.8234992,71.0408624,"Una, Gujarat, India",L0
+15.7361535,79.269125,"Markapur, Andhra Pradesh, India",L0
+25.67282,76.6961305,"Sheopur, Madhya Pradesh 476337, India",L0
+10.7661312,79.6343691,"Thiruvarur, Tamil Nadu, India",L0
+23.9308631,72.3621359,"Siddhpur, Gujarat 384151, India",L0
+28.0724712,78.7561222,"Sahaswan, Uttar Pradesh 243638, India",L0
+29.32186,73.9009228,"Suratgarh, Rajasthan, India",L0
+23.4272938,76.2729839,"Shajapur, Madhya Pradesh 465001, India",L0
+19.171209,83.4163226,"Rayagada, Odisha, India",L0
+18.7557237,73.4090757,"Lonavla, Maharashtra, India",L0
+16.0685991,80.5481667,"Ponnur, Andhra Pradesh, India",L0
+19.3581456,79.4823339,"Kagaznagar (M), Telangana 504296, India",L0
+16.2336589,77.8081363,"Gadwal, Telangana 509125, India",L0
+21.7370549,81.947318,"Bhatapara, Chhattisgarh 493118, India",L0
+15.219717,79.9024779,"Kandukur, Andhra Pradesh, India",L0
+17.6140077,78.08156270000000,"Sangareddy, Telangana, India",L0
+23.8035004,72.3902277,"Unjha, Gujarat 384170, India",L0
+22.8670691,92.7655358,"Lunglei, Mizoram, India",L0
+24.8649128,92.3591531,"Karimganj, Assam 788710, India",L0
+11.8744775,75.37036620000000,"Kannur, Kerala, India",L0
+18.5735047,83.3583654,"Bobbili, Andhra Pradesh, India",L0
+25.3983988,85.9158262,"Mokama, Mokameh Khas, Bihar 803302, India",L0
+18.7375763,73.67466260000000,"Talegaon Dabhade, Maharashtra, India",L0
+21.1670988,77.3152116,"Anjangaon, Maharashtra, India",L0
+21.1171698,70.11581130000000,"Mangrol, Gujarat, India",L0
+30.1305581,75.8013975,"Sunam, Punjab, India",L0
+25.40091,88.53236060000000,"Gangarampur, West Bengal 733124, India",L0
+13.1230558,79.9119526,"Thiruvallur, Tamil Nadu 602003, India",L0
+10.9166586,75.92451180000000,"Tirur, Kerala, India",L0
+25.6021251,79.56596330000000,"Rath, Uttar Pradesh 210431, India",L0
+20.1623534,85.70113840000000,"Jatni, Odisha, India",L0
+23.1249646,72.0535829,"Viramgam, Gujarat 382150, India",L0
+25.0583257,73.88600340000000,"Rajsamand, Rajasthan, India",L0
+16.7271912,82.21757750000000,"Yanam, Puducherry, India",L0
+9.591566800000000,76.5221531,"Kottayam, Kerala, India",L0
+11.7665792,79.5629117,"Panruti, Tamil Nadu, India",L0
+30.3692859,75.86065480000000,"Dhuri, Punjab 148024, India",L0
+11.2188958,78.1673575,"Namakkal, Tamil Nadu 637001, India",L0
+12.4995966,74.9869276,"Kasaragod, Kerala, India",L0
+23.464311,73.29875780000000,"Modasa, Gujarat, India",L0
+14.696869,76.85465050000000,"Rayadurgam, Andhra Pradesh, India",L0
+26.1233718,86.6045134,"Supaul, Bihar 852131, India",L0
+10.6507741,76.0693806,"Kunnamkulam, Kerala, India",L0
+20.8420718,79.3261084,"Umred, Maharashtra 441203, India",L0
+19.0715462,79.4911571,"Bellampalle, Telangana 504251, India",L0
+26.9826098,94.6424521,"Sivasagar, Assam, India",L0
+29.9701485,74.70433920000000,"Mandi Dabwali, Haryana, India",L0
+10.7766702,76.3759375,"Ottapalam, Kerala, India",L0
+25.5501128,84.1500155,"Dumraon, Bihar, India",L0
+17.0500453,82.1679386,"Samarlakota, Andhra Pradesh, India",L0
+16.898534,80.103347,"Jaggaiahpet, Andhra Pradesh, India",L0
+26.1641342,90.62515410000000,"Goalpara, Assam, India",L0
+17.3573261,82.544292,"Tuni, Andhra Pradesh 533401, India",L0
+27.8214683,75.0268822,"Laxmangarh, Rajasthan 332311, India",L0
+17.507769,78.8802139,"Bhongir, Telangana, India",L0
+16.5774798,82.0031455,"Amalapuram, Andhra Pradesh, India",L0
+30.9107385,74.6224755,"Ferozepur Cantt, Punjab, India",L0
+17.3364555,77.9048268,"Vikarabad, Telangana 501102, India",L0
+9.3852725,76.57498560000000,"Thiruvalla, Kerala, India",L0
+29.3227736,78.574602,"Sherkot, Uttar Pradesh 246747, India",L0
+19.6967136,72.769885,"Palghar, Maharashtra 401404, India",L0
+20.7929874,76.6910458,"Shegaon, Maharashtra 444203, India",L0
+17.7226509,79.1517868,"Jangaon, Telangana, India",L0
+17.9287283,83.4265542,"Bheemunipatnam, Andhra Pradesh, India",L0
+24.7180311,80.1819268,"Panna, Madhya Pradesh 488001, India",L0
+9.8959339,76.7184061,"Thodupuzha, Kerala, India",L0
+33.277839,75.34121790000000,Jammu and Kashmir,L0
+21.5346305,71.82748460000000,"Palitana, Gujarat 364270, India",L0
+25.2427603,84.6655981,"Arwal Sipah Panchayat, Bihar 804401, India",L0
+13.9628978,79.58843690000000,"Venkatagiri, Andhra Pradesh, India",L0
+26.1209624,79.74839950000000,"Kalpi, Uttar Pradesh, India",L0
+28.6353435,75.3820239,"Sadulpur, Rajasthan 331023, India",L0
+16.3960329,80.1492601,"Sattenapalle, Andhra Pradesh 522403, India",L0
+13.3133834,76.2565857,"Arsikere, Karnataka 573103, India",L0
+20.0997268,73.92845490000000,"Ojhar, Maharashtra, India",L0
+9.8216147,77.9891394,"Tirumangalam, Tamil Nadu 625706, India",L0
+22.4836145,72.801351,"Petlad, Gujarat, India",L0
+26.2983975,74.7354242,"Nasirabad, Rajasthan 305601, India",L0
+17.9934982,74.4304276,"Phaltan, Maharashtra, India",L0
+24.1744845,87.7793421,"Rampurhat, West Bengal, India",L0
+12.1159697,76.678249,"Nanjangud, Karnataka, India",L0
+26.2986049,87.268613,"Pokhar Basti, Forbesganj, Bihar 854318, India",L0
+27.2263843,78.2425418,"Tundla, Uttar Pradesh, India",L0
+25.0960742,85.31311940000000,"Bihar, India",L0
+14.1670402,75.0403,"Sagar, Karnataka, India",L0
+17.1145559,82.2521517,"Pithapuram, Andhra Pradesh 533450, India",L0
+13.7451493,76.89796620000000,"Sira, Karnataka 572137, India",L0
+17.6687912,80.8935925,"Bhadrachalam, Telangana 507111, India",L0
+28.5920617,76.2652909,"Charkhi Dadri, Haryana 127306, India",L0
+24.2065446,84.871802,"Chatra, Jharkhand 825401, India",L0
+18.7747161,84.40938760000000,"Palasa, Andhra Pradesh, India",L0
+29.174841,74.7688173,"Nohar, Rajasthan 335523, India",L0
+20.0432004,74.4839523,"Yeola, Maharashtra 423401, India",L0
+30.6245124,76.3863018,"Sirhind, Punjab 140406, India",L0
+19.1030659,77.96529900000000,"Bhainsa, Telangana 504103, India",L0
+18.7817162,83.42675180000000,"Parvathipuram, Andhra Pradesh, India",L0
+21.5455841,74.4683333,"Shahada, Maharashtra 425409, India",L0
+10.3070105,76.3340589,"Chalakudy, Kerala, India",L0
+27.1063462,84.4749925,"Narkatiaganj, Bihar 845455, India",L0
+23.0200163,73.0700421,"Kapadvanj, Gujarat 387620, India",L0
+16.4759885,79.4394459,"Macherla, Andhra Pradesh 522426, India",L0
+24.4829658,77.1600201,"Raghogarh -Vijaypur, Madhya Pradesh, India",L0
+30.9661003,76.5230961,"Rupnagar, Punjab 140001, India",L0
+25.387344,87.0979867,"Naugachhia, Bihar 853204, India",L0
+21.6818986,75.0942651,"Sendhwa, Madhya Pradesh 451666, India",L0
+20.9550552,86.1271048,"Byasanagar, Odisha, India",L0
+27.0764686,80.51791330000000,"Sandila, Uttar Pradesh 241204, India",L0
+15.1229477,77.6325593,"Gooty, Andhra Pradesh, India",L0
+18.5163848,83.20508630000000,"Salur, Andhra Pradesh 535591, India",L0
+27.8674709,81.4992884,"Nanpara, Uttar Pradesh 271865, India",L0
+29.1450749,77.6163803,"Sardhana, Uttar Pradesh 250342, India",L0
+17.2751726,74.53571270000000,"Vita, Maharashtra 415311, India",L0
+23.808091,85.8230251,"Gumia, Jharkhand, India",L0
+12.7686756,75.2070644,"Puttur, Karnataka, India",L0
+31.2884966,75.6203283,"Jalandhar Cantt, Jalandhar, Punjab, India",L0
+29.3236371,78.3870668,"Nethaur, Uttar Pradesh 246733, India",L0
+9.446494100000000,76.54021670000000,"Changanassery, Kerala, India",L0
+16.8652942,81.9261999,"Mandapeta, Andhra Pradesh 533308, India",L0
+24.2684794,87.24880880000000,"Dumka, Jharkhand, India",L0
+29.2012596,78.5944718,"Seohara, Uttar Pradesh 246746, India",L0
+19.5975885,77.6916128,"Umarkhed, Maharashtra 445206, India",L0
+24.2659039,86.6467108,"Madhupur, Jharkhand 815353, India",L0
+8.717801200000000,77.3841197,"Vickramasingapuram, Tamil Nadu 627425, India",L0
+9.0176117,76.9260936,"Punalur, Kerala, India",L0
+20.4969108,86.4288534,"Kendrapara, Odisha, India",L0
+21.7197378,71.9597023,"Sihor, Gujarat, India",L0
+11.7768452,79.6703186,"Nellikuppam, Tamil Nadu 607105, India",L0
+30.1554341,76.1957618,"Samana, Punjab, India",L0
+20.250596,79.0163018,"Warora, Maharashtra, India",L0
+11.2855356,76.2385793,"Nilambur, Kerala, India",L0
+11.4614624,78.1854772,"Rasipuram, Tamil Nadu, India",L0
+29.3947643,79.1264997,"Ramnagar, Uttarakhand 244715, India",L0
+14.8474197,78.3899108,"Jammalamadugu, Andhra Pradesh, India",L0
+31.1255583,76.118642,"Nawanshahr, Punjab, India",L0
+24.6449243,93.99929000000000,"Thoubal, Manipur, India",L0
+16.7261322,75.0610561,"Athani, Karnataka 591304, India",L0
+9.674136300000000,76.3400963,"Cherthala, Kerala, India",L0
+24.3956038,81.88252790000000,"Sidhi, Madhya Pradesh 486661, India",L0
+17.0679611,78.20545920000000,"Farooqnagar, Telangana 509216, India",L0
+17.0756673,82.1360026,"Peddapuram, Andhra Pradesh 533437, India",L0
+23.747887,86.7868768,"Chirkunda, Jharkhand, India",L0
+20.6588865,75.3491798,"Pachora, Maharashtra 424201, India",L0
+25.9239677,86.7946387,"Madhepura, Bihar 852113, India",L0
+29.5828604,80.2181884,"Pithoragarh, Uttarakhand, India",L0
+21.3808404,79.7455956,"Tumsar, Maharashtra 441912, India",L0
+27.1312346,72.3589284,"Phalodi, Rajasthan 342301, India",L0
+13.1746411,79.611721,"Thiruttani, Tamil Nadu, India",L0
+30.2701304,75.2398001,"Rampura Phul, Punjab, India",L0
+10.9760357,76.22544310000000,"Perintalmanna, Kerala, India",L0
+26.8983907,83.97971730000000,"Padrauna, Uttar Pradesh, India",L0
+22.7612936,78.3491007,"Pipariya, Madhya Pradesh 461775, India",L0
+20.5814845,81.0711219,"Dalli Rajhara, Chhattisgarh 491228, India",L0
+13.36592,78.57501410000000,"Punganur, Andhra Pradesh 517247, India",L0
+11.9292845,75.5734923,"Mattannur, Kerala 670702, India",L0
+27.4924134,77.673673,"Mathura, Uttar Pradesh, India",L0
+29.1911483,78.8607099,"Thakurdwara, Uttar Pradesh 244601, India",L0
+12.844653,80.0613505,"Nandivaram, Guduvanchery, Tamil Nadu 603202, India",L0
+13.1666533,78.39407370000000,"Mulbagal, Karnataka 563131, India",L0
+19.1646654,76.2044549,"Majalgaon, Maharashtra, India",L0
+22.623634,70.9616056,"Wankaner, Gujarat 363621, India",L0
+20.3079382,75.65281160000000,"Sillod, Maharashtra, India",L0
+16.8970864,81.6634478,"Nidadavole, Andhra Pradesh, India",L0
+16.5216887,76.76105180000000,"Shorapur, Karnataka, India",L0
+22.190196,84.5798623,"Rajgangpur, Odisha 770017, India",L0
+25.1416937,85.86289150000000,"Sheikhpura, Bihar 811105, India",L0
+18.7782929,84.0936483,"Paralakhemundi, Odisha, India",L0
+27.0593562,88.46945350000000,"Kalimpong, West Bengal, India",L0
+15.6175163,76.9005817,"Siruguppa, Karnataka, India",L0
+21.0010073,78.230741,"Arvi, Maharashtra 442201, India",L0
+22.5687621,71.801943,"Limbdi, Gujarat 363421, India",L0
+26.3304209,91.0040547,"Barpeta, Assam, India",L0
+29.7885484,77.87971380000000,"Manglaur, Uttarakhand, India",L0
+16.0174248,80.82947470000000,"Repalle, Andhra Pradesh 522265, India",L0
+16.3333105,75.2858208,"Mudhol, Karnataka 587313, India",L0
+23.3882023,76.71633590000000,"Shujalpur, Madhya Pradesh, India",L0
+22.833334,69.3554783,"Mandvi, Gujarat, India",L0
+22.5761472,71.2009861,"Thangadh, Gujarat 363530, India",L0
+24.0993031,77.6707924,"Sironj, Madhya Pradesh 464228, India",L0
+20.8307334,76.4505243,"Nandura, Maharashtra, India",L0
+10.7677457,76.276381,"Shoranur, Kerala, India",L0
+24.9320197,73.8190856,"Nathdwara, Rajasthan 313301, India",L0
+10.1238778,77.54747070000000,"Periyakulam, Tamil Nadu 625601, India",L0
+25.2401294,86.7404395,"Sultanganj, Bihar, India",L0
+18.0529357,78.261853,"Medak U, Telangana 502110, India",L0
+16.7445112,77.4960078,"Narayanpet, Telangana 509210, India",L0
+26.9797677,84.8515804,"Raxaul, Bihar, India",L0
+33.3716143,74.315191,Rajouri,L0
+12.9392559,78.7190204,"Pernambut, Tamil Nadu 635810, India",L0
+29.3919202,79.4542033,"Nainital, Uttarakhand, India",L0
+16.8372408,82.03254010000000,"Ramachandrapuram, Andhra Pradesh, India",L0
+19.9256818,74.72848120000000,"Vaijapur, Maharashtra 423701, India",L0
+31.3832213,76.3765753,"Nangal, Punjab, India",L0
+13.3936652,77.86531260000000,"Sidlaghatta, Karnataka 562105, India",L0
+33.7669876,74.0924685,Poonch,L0
+21.5925296,78.5291706,"Pandhurna, Madhya Pradesh 480334, India",L0
+20.3717825,78.10797630000000,"Wadgaon Road, Maharashtra, India",L0
+20.9501027,85.216816,"Talcher, Odisha, India",L0
+8.7378685,76.71633590000000,"Varkala, Kerala, India",L0
+28.3802101,75.6091696,"Pilani, Rajasthan 333031, India",L0
+25.0622533,79.4396622,"Nowgong, Madhya Pradesh 471201, India",L0
+22.0193063,82.56997660000000,"Naila, Janjgir, Chhattisgarh 495668, India",L0
+15.5937116,73.8142237,"Mapusa, Goa 403519, India",L0
+10.9459068,77.7131261,"Vellakoil, Tamil Nadu 638111, India",L0
+26.644952,74.0309418,"Merta, Rajasthan 341510, India",L0
+9.8432999,78.48087750000000,"Sivaganga, Tamil Nadu, India",L0
+23.0992796,77.5114731,"Mandideep, Bhopal, Madhya Pradesh 462046, India",L0
+19.4532003,76.4389549,"Selu, Maharashtra 431503, India",L0
+21.1104293,73.3861266,"Vyara, Gujarat 394650, India",L0
+17.0125618,81.727383,"Kovvur, Andhra Pradesh, India",L0
+11.5687854,79.5544594,"Vadalure, Tamil Nadu 607303, India",L0
+26.9268042,81.1833809,"Barabanki, Uttar Pradesh, India",L0
+22.2411608,73.085595,"Padra, Gujarat 391440, India",L0
+23.9486953,87.679312,"Sainthia, West Bengal 731234, India",L0
+28.6279101,78.0609138,"Siyana, Uttar Pradesh 203412, India",L0
+16.6956754,76.8431564,"Shahapur, Karnataka 585223, India",L0
+25.9246872,73.6669099,"Sojat, Rajasthan 306104, India",L0
+29.1511189,78.41266,"Noorpur, Uttar Pradesh, India",L0
+8.814189000000000,76.6672602,"Paravur, Kerala, India",L0
+20.7232674,77.369906,"Murtizapur, Maharashtra 444107, India",L0
+27.1669032,84.3249112,"Ramnagar, Bihar 845106, India",L0
+22.1240025,84.043175,"Sundergarh, Odisha, India",L0
+22.5863755,88.90785270000000,"Taki, West Bengal, India",L0
+15.7521513,75.1253492,"Saundatti-Yellamma, Karnataka, India",L0
+9.2647582,76.78704140000000,"Pathanamthitta, Kerala, India",L0
+17.0667348,76.99391300000000,"Wadi, Karnataka 585225, India",L0
+9.2876254,79.31292910000000,"Rameswaram, Tamil Nadu 623526, India",L0
+17.0295253,74.6078344,"Tasgaon, Maharashtra 416312, India",L0
+27.6864088,78.37827400000000,"Sikandra Rao, Uttar Pradesh 204215, India",L0
+23.4865775,80.1065646,"Sihora, Madhya Pradesh 483225, India",L0
+12.661975,79.5434841,"Cheyyar, Tamil Nadu 604407, India",L0
+17.1098751,80.60937010000000,"Tiruvuru, Andhra Pradesh 521235, India",L0
+20.1477543,76.57131800000000,"Mehkar, Maharashtra 443301, India",L0
+11.7164924,75.5887989,"Peringathur, Kerala, India",L0
+11.2342104,78.8806852,"Perambalur, Tamil Nadu 621212, India",L0
+15.9951034,77.0478112,"Manvi, Karnataka 584123, India",L0
+26.0092831,94.5237707,"Zunheboto, Nagaland 798620, India",L0
+25.6141066,85.48653710000000,"Mahnar Bazar, Bihar 844506, India",L0
+8.6982226,76.8136569,"Attingal, Kerala, India",L0
+30.1557114,76.8697232,"Shahbad, Haryana 136135, India",L0
+28.5129459,80.1477341,"Puranpur, Uttar Pradesh 262122, India",L0
+13.097301,77.38563980000000,"Nelamangala Town, Karnataka 562123, India",L0
+31.1270186,75.4817733,"Nakodar, Punjab, India",L0
+23.130011,73.61087000000000,"Voharwad, Lunawada, Gujarat 389230, India",L0
+24.1759039,88.2801785,"Murshidabad, West Bengal 742149, India",L0
+11.7002703,75.5424843,"Mah, Puducherry, India",L0
+25.9287852,92.9475662,"Lanka, Assam, India",L0
+26.7509049,81.7513551,"Rudauli, Uttar Pradesh 224120, India",L0
+26.2357422,94.8131863,"Tuensang, Nagaland, India",L0
+15.1274626,75.4723411,"Laxmeshwar, Karnataka 582116, India",L0
+30.9685312,74.9880895,"Zira, Punjab 142047, India",L0
+21.168089,75.6991717,"Yawal, Maharashtra, India",L0
+29.5874759,77.41678760000000,"Thanabhawan, Uttar Pradesh, India",L0
+15.9500493,75.297485,"Ramdurg, Karnataka 591123, India",L0
+20.7237577,78.3216329,"Pulgaon, Maharashtra 442302, India",L0
+17.6202841,77.9538767,"Sadashivpet, Telangana 502291, India",L0
+15.7213753,75.3849382,"Nargund, Karnataka 582207, India",L0
+27.7393659,75.777846,"Neem Ka Thana, Rajasthan, India",L0
+23.1745495,88.10338830000000,"Memari, West Bengal, India",L0
+18.1258753,76.75096600000000,"Nilanga, Maharashtra 413521, India",L0
+27.1086309,93.69839790000000,Naharlagun 791110,L0
+24.6336908,87.8500644,"Pakur, Jharkhand 816107, India",L0
+17.9527562,73.8885528,"Wai, Maharashtra, India",L0
+13.7116894,75.8106064,"Tarikere, Karnataka 577228, India",L0
+12.3853432,77.0535798,"Malavalli, Karnataka, India",L0
+23.3327329,77.7823973,"Raisen, Madhya Pradesh 464551, India",L0
+26.193891,78.9443807,"Lahar, Madhya Pradesh 477445, India",L0
+14.9460376,77.2604842,"Uravakonda, Andhra Pradesh 515812, India",L0
+14.9724912,75.3355694,"Savanur, Karnataka 581118, India",L0
+24.8851548,72.8574558,"Sirohi, Rajasthan 307001, India",L0
+32.9159847,75.1416173,Udhampur 182101,L0
+17.8397675,76.6222433,"Omerga, Maharashtra 413606, India",L0
+24.0316509,74.77873870000000,"Pratapgarh, Rajasthan, India",L0
+16.1550404,76.5199195,"Lingsugur, Karnataka 584122, India",L0
+9.9651242,77.78850040000000,"Usilampatti, Tamil Nadu 625532, India",L0
+28.4359542,80.5714465,"Palia Kalan, Uttar Pradesh 262902, India",L0
+26.0910351,94.25897380000000,"Wokha, Nagaland 797111, India",L0
+21.8715143,73.5030517,"Rajpipla, Gujarat, India",L0
+16.8301708,75.710031,"Vijayapura, Karnataka, India",L0
+24.9305954,75.5909259,"Rawatbhata, Rajasthan 323305, India",L0
+29.7903276,74.4630794,"Sangaria, Rajasthan, India",L0
+19.4776906,75.3849382,"Paithan, Maharashtra 431107, India",L0
+19.3950986,74.6520835,"Rahuri, Maharashtra 413705, India",L0
+31.2745862,74.8565613,"Patti, Punjab, India",L0
+26.833931,81.331402,"Zaidpur, Uttar Pradesh, India",L0
+26.5606174,76.3281212,"Lalsot, Rajasthan 303503, India",L0
+24.2657817,80.7624352,"Maihar, Madhya Pradesh 485771, India",L0
+10.3773716,79.8494647,"Vedaranyam, Tamil Nadu 614810, India",L0
+21.1616527,73.7946403,"Navapur, Maharashtra 425418, India",L0
+30.9084245,77.09990310000000,"Solan, Himachal Pradesh, India",L0
+20.3893155,72.9106202,"Vapi, Gujarat, India",L0
+22.1764007,76.06819900000000,"Sanawad, Madhya Pradesh, India",L0
+25.0125217,85.6383484,"Warisaliganj, Bihar 805130, India",L0
+25.7609295,84.6740642,"Revelganj, Bihar, India",L0
+26.2469802,77.4070144,"Sabalgarh, Madhya Pradesh 476229, India",L0
+18.0087239,76.0708812,"Tuljapur, Maharashtra 413601, India",L0
+22.6151138,84.4959985,"Simdega, Jharkhand 835223, India",L0
+22.5035411,86.45415110000000,"Musabani, Jharkhand, India",L0
+10.2276998,76.1971221,"Kodungallur, Kerala, India",L0
+20.4797108,84.2331485,"Phulbani, Odisha, India",L0
+22.698717,73.1143067,"Umreth, Gujarat 388220, India",L0
+17.666433,82.6105228,"Narsipatnam, Andhra Pradesh 531116, India",L0
+27.4241659,83.4269996,"Nautanwa, Uttar Pradesh 273164, India",L0
+25.0172573,85.4161642,"Rajgir, Bihar, India",L0
+17.5941336,80.322363,"Yellandu, Telangana, India",L0
+11.5034192,77.24443480000000,"Sathyamangalam, Tamil Nadu 638402, India",L0
+29.4887958,74.0748022,"Pilibanga, Rajasthan, India",L0
+21.3241951,78.0138306,"Morshi, Maharashtra 444905, India",L0
+29.9806941,76.5846091,"Pehowa, Haryana, India",L0
+25.6942865,85.17837640000000,"Sonepur, Bihar 841101, India",L0
+11.9428357,75.3499629,"Pappinisseri, Kerala, India",L0
+25.4241348,83.5576478,"Zamania, Uttar Pradesh, India",L0
+23.8472995,86.8824997,"Mihijam, Jharkhand, India",L0
+19.1790258,77.03053900000000,"Purna, Maharashtra 431511, India",L0
+9.1725368,77.39560040000000,"Puliyangudi, Tamil Nadu 627855, India",L0
+28.2797558,78.01097640000000,"Shikarpur, Uttar Pradesh, India",L0
+23.5309797,80.82947470000000,"Umaria, Madhya Pradesh 484661, India",L0
+26.672873,78.36924000000000,"Porsa, Madhya Pradesh 476115, India",L0
+29.0041113,78.4041297,"Naugawan Sadat, Uttar Pradesh 244251, India",L0
+27.0945291,77.6679292,"Fatehpur Sikri, Uttar Pradesh 283110, India",L0
+17.9312067,80.8266197,"Manuguru (PT), Telangana 507117, India",L0
+23.5360233,91.4869856,"Udaipur, Tripura, India",L0
+26.3879908,73.52996400000000,"Piparcity, Rajasthan 342601, India",L0
+20.5854927,86.5661006,"Pattamundai, Odisha 754215, India",L0
+10.7218824,79.14080030000000,"Nanjikottai, Thanjavur, Tamil Nadu 613006, India",L0
+28.6714683,75.0354017,"Taranagar, Rajasthan 331304, India",L0
+14.639396,78.53485070000000,"Yerraguntla, Andhra Pradesh, India",L0
+20.598224,74.2032581,"Satana, Maharashtra 423301, India",L0
+24.5595131,84.7994271,"Sherghati, Bihar, India",L0
+16.2600491,74.4836128,"Sankeshwar, Karnataka, India",L0
+12.4244205,75.7381856,"Madikeri, Karnataka 571201, India",L0
+11.1414545,78.5944718,"Thuraiyur, Tamil Nadu, India",L0
+22.9919637,72.3772986,"Sanand, Gujarat 382110, India",L0
+21.0411065,71.4488241,"Rajula, Gujarat 365560, India",L0
+17.9508019,79.3824561,"Kyathampally, Telangana 506151, India",L0
+28.5664771,79.0078502,"Shahabad, Uttar Pradesh 244922, India",L0
+21.5513879,81.800389,"Tilda Newra, Chhattisgarh 493114, India",L0
+23.7148593,77.0881034,"Narsinghgarh, Madhya Pradesh 465669, India",L0
+10.6772378,76.71633590000000,"Chittur-Thathamangalam, Kerala, India",L0
+22.0494116,80.7160777,"Malanjkhand, Madhya Pradesh, India",L0
+23.5664503,76.472256,"Sarangpur, Madhya Pradesh 465697, India",L0
+24.6850005,83.0683519,"Robertsganj, Uttar Pradesh 231216, India",L0
+11.2390878,79.7361217,"Sirkali, Tamil Nadu, India",L0
+23.8286354,71.6139348,"Radhanpur, Gujarat 385340, India",L0
+8.4946141,78.1218531,"Thiruchendur, Tamil Nadu, India",L0
+27.3175183,82.4183927,"Utraula, Uttar Pradesh 271604, India",L0
+23.6329221,85.30328110000000,"Patratu, Jharkhand, India",L0
+25.9267581,74.65063220000000,"Bijainagar, Rajasthan 305624, India",L0
+11.3640592,77.6937629,"Periya Semur, Tamil Nadu 638004, India",L0
+19.26324,76.4302771,"Pathri, Maharashtra 431506, India",L0
+27.439091,78.03380780000000,"Sadabad, Uttar Pradesh 281306, India",L0
+16.4939567,76.3289941,"Talikoti Rural, Karnataka 586214, India",L0
+19.8479813,73.9889645,"Sinnar, Maharashtra, India",L0
+22.0685419,81.68568080000000,"Mungeli, Chhattisgarh 495334, India",L0
+17.1783909,77.2872658,"Sedam, Karnataka 585222, India",L0
+14.2673037,75.3557927,"Shikaripur, Karnataka 577427, India",L0
+25.1526446,73.0822804,"Sumerpur, Rajasthan, India",L0
+9.357978,77.91557950000000,"Sattur, Tamil Nadu 626203, India",L0
+26.7584464,84.7420032,"Sugauli, Bihar, India",L0
+25.7516266,93.172876,"Lumding, Assam 782447, India",L0
+12.5028829,79.60248000000000,"Vandavasi, Tamil Nadu 604408, India",L0
+20.28709,83.14660770000000,"Titilagarh, Odisha 767033, India",L0
+16.6973432,74.27351590000000,"Uchgaon, Kolhapur, Maharashtra, India",L0
+26.3220358,94.5134629,"Mokokchung, Nagaland, India",L0
+24.6007362,88.0460894,"Paschim Punropara, West Bengal, India",L0
+23.665708,74.0241367,"Sagwara, Rajasthan, India",L0
+24.6495542,75.94342090000000,"Ramganj Mandi, Rajasthan, India",L0
+22.8786554,88.01429400000000,"Tarkeshwar, West Bengal, India",L0
+16.3896542,75.11075270000000,"Mahalingapur, Karnataka 587312, India",L0
+24.3783242,92.1548473,"Dharmanagar, Tripura, India",L0
+22.8255649,72.7570789,"Mahemdavad, Gujarat, India",L0
+23.2133889,82.1936679,"Manendragarh, Chhattisgarh 497442, India",L0
+18.8772346,72.9283391,"Uran, Navi Mumbai, Maharashtra, India",L0
+11.6940008,77.97100980000000,"Tharamangalam, Tamil Nadu 636502, India",L0
+11.9687124,79.2086621,"Thirukoilure, Tamil Nadu 605757, India",L0
+18.7357931,73.0946926,"Pen, Maharashtra 402107, India",L0
+25.0655674,84.97395210000000,"Makhdumpur, Bihar, India",L0
+25.6404664,84.8965441,"Maner, Bihar 801108, India",L0
+10.4897472,77.7543611,"Oddanchatram, Tamil Nadu 624619, India",L0
+10.9955767,77.2852097,"Palladam, Tamil Nadu, India",L0
+22.0771811,76.4794435,"Mundi, Madhya Pradesh, India",L0
+19.2281434,82.54698980000000,"Nowrangpur, Odisha 764059, India",L0
+16.336974,74.9661368,"Mudalagi, Karnataka 591312, India",L0
+29.2405272,77.0117647,"Samalkha, Haryana 132101, India",L0
+21.4532252,76.4215988,"Nepanagar, Madhya Pradesh 450221, India",L0
+18.9102069,73.3282612,"Karjat, Maharashtra 410201, India",L0
+21.6833775,69.7435857,"Ranavav, Gujarat 360550, India",L0
+16.2579279,81.1444264,"Pedana, Andhra Pradesh, India",L0
+30.799264,76.9149134,"Pinjore, Haryana, India",L0
+25.6649505,76.18127200000000,"Lakheri, Rajasthan, India",L0
+23.1597254,81.956891,"Pasan, Madhya Pradesh 484336, India",L0
+13.4381376,79.5521971,"Puttur, Andhra Pradesh 517583, India",L0
+8.3966911,77.6065361,"Vadakkuvalliyur, Tamil Nadu, India",L0
+12.6082849,80.0646682,"Tirukazhukundram, Tamil Nadu, India",L0
+23.4857264,75.6544875,"Mahidpur, Madhya Pradesh 456443, India",L0
+30.4597892,78.0643723,"Mussoorie, Uttarakhand, India",L0
+9.9894229,76.57897490000000,"Muvattupuzha, Kerala, India",L0
+25.8591065,83.85546700000000,"Rasra, Uttar Pradesh, India",L0
+27.7303717,75.4752537,"Udaipurwati, Rajasthan 333307, India",L0
+19.3060901,76.49679190000000,"Manwath, Maharashtra 431505, India",L0
+9.1529667,76.7356123,"Adoor, Kerala, India",L0
+9.8086064,77.328135,"Uthamapalayam, Tamil Nadu, India",L0
+19.5857562,76.213349,"Partur, Maharashtra 431501, India",L0
+30.5599327,77.29548300000000,"Nahan, Himachal Pradesh 173001, India",L0
+29.9931752,77.0474325,"Ladwa, Haryana 136132, India",L0
+25.5354761,89.8622017,"Mankachar, Assam 783131, India",L0
+25.5213094,91.2554112,"Nongstoin, Meghalaya 793119, India",L0
+27.3956892,74.9267229,"Losal, Rajasthan 332025, India",L0
+27.4727934,75.59687150000000,"Shrimadhopur, Rajasthan 332715, India",L0
+27.2502576,75.1720488,"Ramgarh, Rajasthan 332703, India",L0
+9.2384874,76.5314817,"Mavelikkara Municipality, Mavelikara, Kerala, India",L0
+29.2565632,74.40488310000000,"Rawatsar, Rajasthan 335524, India",L0
+26.8946488,78.1706939,"Rajakhera, Rajasthan 328025, India",L0
+26.2046498,83.96913460000000,"Lar, Uttar Pradesh, India",L0
+25.652762,81.6199484,"Lal Gopalganj Nindaura, Uttar Pradesh, India",L0
+16.3395804,76.1290961,"Muddebihal, Karnataka 586212, India",L0
+27.0552636,78.6893782,"Sirsaganj, Uttar Pradesh 283151, India",L0
+25.6230703,74.92919840000000,"Shahpura, Rajasthan 311404, India",L0
+8.9782764,77.4185584,"Surandai, Tamil Nadu, India",L0
+17.4340512,75.1953934,"Sangola, Maharashtra 413307, India",L0
+14.1030998,77.2807423,"Pavagada, Karnataka 572202, India",L0
+24.396687,71.6271514,"Tharad, Gujarat, India",L0
+23.4349854,72.65650840000000,"Mansa, Gujarat, India",L0
+20.1738123,72.7639662,"Umargam, Gujarat, India",L0
+11.2674594,75.9425235,"Mavoor, Kerala 673661, India",L0
+26.4446185,91.4410527,"Nalbari, Assam, India",L0
+21.3514348,72.0327247,"Talaja, Gujarat 364140, India",L0
+13.0037225,77.9383033,"Malur, Karnataka, India",L0
+20.3148721,77.34194170000000,"Mangrulpir, Maharashtra, India",L0
+21.2814867,86.69178870000000,"Soro, Odisha 756045, India",L0
+25.6230703,74.92919840000000,"Shahpura, Rajasthan 311404, India",L0
+23.7757259,72.6165643,"Vadnagar, Gujarat, India",L0
+29.5366889,73.4445392,"Raisingh Nagar, Rajasthan 335051, India",L0
+16.9172558,76.2334278,"Sindagi, Karnataka 586128, India",L0
+15.0873798,76.5477411,"Sandur, Karnataka 583119, India",L0
+28.2486993,77.06351170000000,"Sohna, Haryana, India",L0
+21.493179,70.1366499,"Manavadar, Gujarat 362630, India",L0
+27.6199798,80.2006713,"Pihani, Uttar Pradesh 241406, India",L0
+29.4060653,76.66148530000000,"Safidon, Haryana 126112, India",L0
+19.9778398,76.782702,"Risod, Maharashtra 444506, India",L0
+25.7567857,86.0274622,"Rosera, Bihar, India",L0
+11.4744536,77.869128,"Sankari, Tamil Nadu, India",L0
+26.3005677,75.36966140000000,"Malpura, Rajasthan 304502, India",L0
+23.3075757,87.4157938,"Sonamukhi, West Bengal 722207, India",L0
+27.0168053,78.1236592,"Shamsabad, Uttar Pradesh 283125, India",L0
+25.1046006,84.1421945,"Nokha, Bihar 802215, India",L0
+22.9867569,87.8549755,"West Bengal, India",L0
+26.5738294,88.8214984,"Maynaguri, West Bengal 735224, India",L0
+17.2025612,76.3577624,"Afzalpur, Karnataka 585301, India",L0
+18.8249767,74.3775524,"Shirur, Maharashtra 412210, India",L0
+22.3080853,69.6006031,"Salaya, Gujarat 361310, India",L0
+8.9751131,77.2491365,"Shenkottai, Tamil Nadu 627809, India",L0
+23.818918,91.276079,"West Pratapgarh, Bardowali, Agartala, Tripura 799003, India",L0
+10.0843179,77.9610158,"Vadipatti, Tamil Nadu, India",L0
+16.4939417,78.31024890000000,"Nagarkurnool, Telangana, India",L0
+21.3855542,78.9217522,"Savner, Maharashtra 441107, India",L0
+18.3463128,74.0301826,"Saswad, Maharashtra 412301, India",L0
+26.429255,83.6103533,"Rudrapur, Uttar Pradesh 274204, India",L0
+27.886626,78.7447868,"Soron, Uttar Pradesh 207403, India",L0
+13.1115847,79.4310052,"Sholinghur, Tamil Nadu, India",L0
+20.0229705,78.5490494,"Pandharkawada, Maharashtra 445302, India",L0
+10.1146301,76.4777526,"Perumbavoor, Kerala, India",L0
+12.5866972,77.0453429,"Maddur, Karnataka 571428, India",L0
+27.2144024,77.20314930000000,"Nadbai, Rajasthan 321602, India",L0
+21.5628085,74.21353030000000,"Taloda, Maharashtra 425413, India",L0
+18.6175439,74.6981267,"Shrigonda, Maharashtra, India",L0
+13.6643166,77.20889870000000,"Madhugiri, Karnataka 572132, India",L0
+15.534788,76.8793025,"Tekkalakote, Karnataka 583122, India",L0
+22.4513671,77.4660335,"Seoni Malwa, Madhya Pradesh, India",L0
+19.7645364,74.4762124,"Shirdi, Maharashtra, India",L0
+26.8467088,80.9461592,"Uttar Pradesh, India",L0
+16.494439,75.05235340000000,"Terdal, Karnataka 587315, India",L0
+21.2400311,76.0333885,"Raver, Maharashtra 425508, India",L0
+12.4754424,78.58545530000000,"Tirupattur, Tamil Nadu 635653, India",L0
+29.7999607,76.9334186,"Taraori, Haryana 132116, India",L0
+18.7158819,77.3726379,"Mukhed Khede, Maharashtra 431715, India",L0
+10.9104314,78.6997815,"Manachanallur, Tamil Nadu 621005, India",L0
+23.6398907,79.06549490000000,"Rehli, Madhya Pradesh 470227, India",L0
+24.7517368,71.7762183,"Sanchore, Rajasthan 343041, India",L0
+19.7774571,79.36626750000000,"Rajura, Maharashtra 442905, India",L0
+25.3258049,84.4015075,"Piro, Bihar 802207, India",L0
+13.0687993,74.99360040000000,"Mudbidri, Karnataka, India",L0
+16.8356756,74.3101557,"Peth Vadgaon, Maharashtra, India",L0
+27.4242037,77.09961300000000,"Nagar, Rajasthan 321205, India",L0
+23.5609405,72.7510921,"Vijapur, Gujarat, India",L0
+9.4286588,77.7995573,"Viswanatham, Sivakasi, Tamil Nadu, India",L0
+12.5106551,79.12682870000000,"Polur, Tamil Nadu 606803, India",L0
+8.3149227,77.5676735,"Panakudi, Tamil Nadu 627109, India",L0
+22.2366679,75.0873956,"Manawar, Madhya Pradesh 454446, India",L0
+30.3738609,78.4324809,"New Tehri, Uttarakhand 249001, India",L0
+27.1365676,79.701762,"Samdhan, Uttar Pradesh, India",L0
+20.5124532,72.947993,"Killa-pardi, Gujarat 396125, India",L0
+23.7905479,78.3984423,"Rahatgarh, Madhya Pradesh 470119, India",L0
+23.2910303,79.996282,"Panagar, Madhya Pradesh 483220, India",L0
+12.6148734,79.7593693,"Uthiramerur, Tamil Nadu 603406, India",L0
+21.4068321,79.9309055,"Tirora, Maharashtra, India",L0
+26.4470335,91.61789180000000,"Rangia, Assam, India",L0
+26.7537849,83.213527,"Sahjanwa, Uttar Pradesh 273209, India",L0
+21.7654015,80.0590804,"Waraseoni, Madhya Pradesh 481331, India",L0
+12.9576756,77.22614520000000,"Magadi, Karnataka, India",L0
+27.2378056,76.6240881,"Rajgarh, Rajasthan 301408, India",L0
+24.8184507,84.63431040000000,"Rafiganj, Bihar 824125, India",L0
+23.3374767,76.042092,"Tarana, Madhya Pradesh 456665, India",L0
+29.807555,77.45442110000000,"Rampur Maniharan, Uttar Pradesh 247451, India",L0
+25.1418179,73.0626351,"Sheoganj, Rajasthan, India",L0
+30.6535618,75.5917092,"Raikot, Punjab 141109, India",L0
+30.1471155,78.7745393,"Pauri, Uttarakhand 246001, India",L0
+25.8263937,80.1573915,"Sumerpur, Uttar Pradesh, India",L0
+15.5604653,75.3556407,"Navalgund, Karnataka 582208, India",L0
+24.7018356,82.9541887,"Shahganj, Uttar Pradesh, India",L0
+25.9701764,84.8763365,"shilowri, Bihar 841418, India",L0
+27.5246311,82.4156829,"Tulsipur, Uttar Pradesh, India",L0
+25.1325611,73.45337790000000,"Sadri, Rajasthan, India",L0
+10.5488795,79.639015,"Thruthuraipoondi, Tamil Nadu 614713, India",L0
+14.9913752,75.22165200000000,"Shiggaon, Karnataka 581205, India",L0
+10.720228,77.8899586,"Pallapatti, Tamil Nadu 639205, India",L0
+28.2734201,76.14013490000000,"Mohindergarh, Haryana, India",L0
+21.6519825,78.7957856,"Sausar, Madhya Pradesh 480106, India",L0
+13.333949,80.194327,"Ponneri, Tamil Nadu 601204, India",L0
+18.0820208,73.42244100000000,"Mahad, Maharashtra 402301, India",L0
+23.4409325,84.6845216,"Lohardaga, Jharkhand 835302, India",L0
+26.9594296,79.7890462,"Tirwaganj, Uttar Pradesh 209732, India",L0
+27.2910662,95.6694606,"Margherita, Assam, India",L0
+31.5299004,76.888941,"Sundar Nagar, Himachal Pradesh, India",L0
+24.0078819,76.7278803,"Rajgarh, Madhya Pradesh 465661, India",L0
+26.44632,92.03221720000000,"Mangaldoi, Assam, India",L0
+13.6373232,79.5036674,"Renigunta, Andhra Pradesh, India",L0
+30.2000946,75.6755215,"Longowal, Punjab 148106, India",L0
+29.676906,75.5713361,"Ratia, Haryana 125051, India",L0
+10.874405,78.81844320000000,"Lalgudi, Tamil Nadu, India",L0
+12.4237094,76.6828604,"Srirangapatna, Karnataka, India",L0
+25.3697238,78.7986181,"Niwari, Madhya Pradesh 472442, India",L0
+10.2261119,78.22945350000000,"Natham, Tamil Nadu 624401, India",L0
+8.300753800000000,77.2369211,"Unnamalaikadai, Tamil Nadu, India",L0
+38.8985658,-77.04428420000000,"700 19th St NW, Washington, D.C., DC 20431, USA",L0
+27.53634,79.4394459,"Shamshabad, Uttar Pradesh 209503, India",L0
+26.3695853,84.3357992,"Mirganj, Bihar, India",L0
+26.0245037,75.4838259,"Todaraisingh, Rajasthan 304505, India",L0
+29.5278873,78.5632461,"Warhapur, Uttar Pradesh 246724, India",L0
+18.4555839,83.6493806,"Razam, Andhra Pradesh, India",L0
+31.675295,75.6339512,"Urmar Tanda, Punjab, India",L0
+19.984796,76.52235400000000,"Lonar, Maharashtra 443302, India",L0
+28.0679273,80.09679060000000,"Powayan, Uttar Pradesh 242401, India",L0
+11.7997589,77.8281514,"P.N.Patti, Tamil Nadu, India",L0
+32.1108599,76.5362526,"Palampur, Himachal Pradesh, India",L0
+16.1160857,78.821275,"Srisailam Project, Telangana, India",L0
+16.9172558,76.2334278,"Sindagi, Karnataka 586128, India",L0
+27.2901003,79.95554470000000,"Sandi, Uttar Pradesh 241403, India",L0
+9.7216446,76.3926668,"Vaikom, Kerala, India",L0
+25.0108408,88.14109670000000,"Malda, West Bengal 732101, India",L0
+11.0290373,79.8506815,"Tharangambadi, Tamil Nadu 609313, India",L0
+12.9441511,75.78656530000000,"Sakleshpur, Karnataka, India",L0
+25.8639603,85.1764491,"Lalganj, Bihar 844121, India",L0
+18.3435863,81.88252790000000,"Malkangiri, Odisha, India",L0
+23.5729757,70.6447369,"Rapar, Gujarat 370165, India",L0
+24.6696723,81.8810227,"Mauganj, Madhya Pradesh 486331, India",L0
+26.9166942,76.8158718,"Todabhim, Rajasthan, India",L0
+13.3305066,78.20773680000000,"Srinivaspur, Karnataka 563135, India",L0
+25.901024,86.9949372,"Murliganj, Bihar 852122, India",L0
+27.3766238,75.5579722,"Reengus, Rajasthan 332404, India",L0
+15.9052627,73.8213213,"Sawantwadi, Maharashtra 416510, India",L0
+11.4096412,79.1181599,"Tittakudi, Tamil Nadu 606106, India",L0
+24.6820763,93.9452364,"Lilong, Manipur 795130, India",L0
+28.0306976,74.4701475,"Rajaldesar, Rajasthan 331802, India",L0
+19.1761399,75.1749671,"Pathardi, Maharashtra 414102, India",L0
+27.1773695,77.7537913,"Achhnera, Uttar Pradesh 283101, India",L0
+8.3310402,77.22192530000000,"Pacode, Tamil Nadu, India",L0
+28.196777,78.3813785,"Narora, Uttar Pradesh 203389, India",L0
+29.9198725,77.30659520000000,"Nakur, Uttar Pradesh 247342, India",L0
+9.7130944,76.68328390000000,"Pala, Kerala, India",L0
+30.791232,76.502549,"Morinda, Punjab 140101, India",L0
+24.4748048,75.140385,"Manasa, Madhya Pradesh 458110, India",L0
+22.4266058,80.1095601,"Nainpur, Madhya Pradesh 481776, India",L0
+29.1215972,78.6185941,"Sahaspur, Uttar Pradesh 246745, India",L0
+20.7938803,79.6368375,"Pauni, Maharashtra 441910, India",L0
+25.2086335,78.7511708,"Prithvipur, Madhya Pradesh 472336, India",L0
+21.3928618,79.3268397,"Ramtek, Maharashtra 441106, India",L0
+27.5952937,94.724003,"Silapathar, Assam 787059, India",L0
+21.166359,73.5645054,"Songadh, Gujarat, India",L0
+26.7350049,80.3463754,"Safipur, Uttar Pradesh 209871, India",L0
+22.7017104,78.1934911,"Sohagpur, Madhya Pradesh 461771, India",L0
+20.0651702,79.675246,"Mul, Maharashtra 441224, India",L0
+29.9095791,74.17390570000000,"Sadul Shahar, Rajasthan 335062, India",L0
+31.01898990000000,75.7879404,"Phillaur, Punjab 144410, India",L0
+26.9095549,75.18594760000000,"Sambhar, Rajasthan 303604, India",L0
+23.4372472,72.8573097,"Approach Rd, Prantij, Gujarat 383205, India",L0
+28.9981478,79.5125662,"Nagla, Uttarakhand 263149, India",L0
+29.9593348,76.0565965,"Patran, Punjab 147105, India",L0
+24.5925909,72.7156274,"Mount Abu, Rajasthan 307501, India",L0
+25.8466088,84.37830490000000,"Reoti, Uttar Pradesh 277209, India",L0
+23.761681,85.8639766,"Kathara, Jharkhand, India",L0
+22.5405951,88.1364591,"Panchla, West Bengal, India",L0
+28.9235479,79.70072110000000,"Sitarganj, Uttarakhand 262405, India",L0
+28.0618646,95.3259629,Pasighat 791102,L0
+26.2525481,85.1608985,"Motipur, Bihar, India",L0
+11.4459392,76.4678766,"O Valley, Tamil Nadu, India",L0
+23.5343795,86.6686635,"Raghunathpur, West Bengal, India",L0
+11.3889694,77.6883977,"Suriyampalayam, Tamil Nadu 638102, India",L0
+31.819064,75.37910960000000,"Qadian, Punjab 143516, India",L0
+22.2709322,86.1700894,"Rairangpur, Odisha, India",L0
+20.2753406,73.0072986,"Silvassa, Dadra and Nagar Haveli, India",L0
+23.352474,80.9802002,"Nowrozabad, Madhya Pradesh 484555, India",L0
+25.3362429,76.51124710000000,"Mangrol, Rajasthan 325215, India",L0
+20.5944882,75.6164442,"Soygaon, Maharashtra 431120, India",L0
+32.31263,75.6014359,"Sujanpur, Punjab 145023, India",L0
+25.3460615,87.62268190000000,"Manihari, Bihar 854113, India",L0
+26.0368058,84.0378894,"Sikandarpur, Uttar Pradesh, India",L0
+17.5109871,75.4519516,"Mangalwedha, Maharashtra 413305, India",L0
+26.8767313,75.2454159,"Phulera, Rajasthan, India",L0
+15.6995608,75.7329592,"Rona, Karnataka 582209, India",L0
+10.0211443,77.9610158,"Sholavandan, Tamil Nadu 625214, India",L0
+25.5517971,83.1833851,"Saidpur, Uttar Pradesh 233221, India",L0
+24.1883179,75.6352989,"Shamgarh, Madhya Pradesh 458883, India",L0
+11.4447498,78.4861415,"Udayarpalayam, Thammampatti, Tamil Nadu 636113, India",L0
+26.4818557,77.9752926,"Maharajpur, Morena, Madhya Pradesh 476001, India",L0
+21.7751821,78.2571256,"Multai, Madhya Pradesh 460661, India",L0
+31.9501545,75.6174525,"Mukerian, Punjab 144211, India",L0
+28.6395366,78.6427107,"Sirsi, Uttar Pradesh 244301, India",L0
+26.4566318,80.771321,"Purwa, Uttar Pradesh 209825, India",L0
+26.5145872,85.29423130000000,"Sheohar, Bihar 843329, India",L0
+11.4569257,78.2686173,"Namagiripettai, Tamil Nadu 637406, India",L0
+24.1835502,82.76977050000000,"Parasi, Uttar Pradesh, India",L0
+21.7268121,71.3884865,"Lathi, Gujarat 365430, India",L0
+26.1650564,80.9705292,"Lalganj, Uttar Pradesh 229206, India",L0
+21.4691505,78.5291706,"Narkhed, Maharashtra 441304, India",L0
+26.3427291,89.21533630000000,"Mathabhanga, West Bengal 736146, India",L0
+21.5283974,78.2846303,"Shendurjana Ghat, Maharashtra 444907, India",L0
+10.2860679,79.200491,"Peravurani, Tamil Nadu 614804, India",L0
+26.6515709,94.3282595,"Mariani, Assam, India",L0
+25.5510396,82.088374,"Phoolpur, Uttar Pradesh 212402, India",L0
+29.52551620000000,74.83609180000000,"Rania, Haryana 125076, India",L0
+23.3702806,81.058906,"Pali Birsinghpur, Madhya Pradesh, India",L0
+23.7134614,76.7307663,"Pachore, Madhya Pradesh 465683, India",L0
+11.5084474,79.7568107,"Parangipettai, Tamil Nadu, India",L0
+12.5018978,80.14897290000000,"Pudupattinam, Kalpakkam, Tamil Nadu 603102, India",L0
+11.7265333,75.5545989,"Panniyannur, Chokli, Kerala 670672, India",L0
+26.1112101,84.5038658,"Maharajganj, Bihar, India",L0
+22.6399382,75.8033385,"Rau, Indore, Madhya Pradesh, India",L0
+22.067228,87.9163191,"Monoharpur, West Bengal, India",L0
+28.050017,75.14870070000000,"Mandawa, Rajasthan 333704, India",L0
+26.2528853,92.33695500000000,"Morigaon, Assam 782105, India",L0
+12.9043057,78.94117780000000,"SVM Nagar, Pallikonda, Tamil Nadu 635809, India",L0
+24.7988839,73.0515196,"Pindwara, Rajasthan 307022, India",L0
+28.7292648,79.3155716,"Shishgarh, Uttar Pradesh, India",L0
+20.4627965,76.938379,"Patur, Maharashtra 444501, India",L0
+24.5994221,93.87062080000000,"Mayang Imphal, Manipur, India",L0
+22.578061,75.73133420000000,"Mhow Gaon, Madhya Pradesh 453441, India",L0
+10.594561,76.0368701,"Guruvayur, Kerala, India",L0
+17.6334395,74.7871061,"Mhaswad, Maharashtra 415509, India",L0
+27.7939351,78.8311858,"Sahawar, Uttar Pradesh 207245, India",L0
+11.1178687,77.78811760000000,"Sivagiri, Tamil Nadu 638109, India",L0
+15.2054557,75.8853465,"Mundargi, Karnataka 582118, India",L0
+11.0815808,78.0042275,"Nanjaipugalur, Tamil Nadu 639117, India",L0
+24.3268117,92.0126276,"Kailashahar, Tripura, India",L0
+25.8421586,78.9033627,"Samthar, Uttar Pradesh 284304, India",L0
+22.0237859,82.96023870000000,"Sakti, Chhattisgarh 495689, India",L0
+16.5533172,74.5316807,"Sadalga, Karnataka, India",L0
+25.0816948,85.42853,"Silao, Bihar 803117, India",L0
+25.1977566,75.0932352,"Mandalgarh, Rajasthan 311604, India",L0
+18.9473865,77.1154368,"Loha, Maharashtra 431708, India",L0
+26.2266671,79.8380778,"Pukhrayan, Uttar Pradesh 209111, India",L0
+8.2445969,77.33674980000000,"Padmanabhapuram, Tamil Nadu, India",L0
+23.2504915,91.4676394,"Belonia, Tripura 799155, India",L0
+22.489734,92.979269,"Siaha, Mizoram 796901, India",L0
+22.7505213,88.3405772,"Serampore, West Bengal, India",L0
+31.9311287,75.8940592,"Talwara, Punjab 144216, India",L0
+9.5653317,76.5661622,"Puthuppally, Kerala, India",L0
+24.0671796,91.60567180000000,"Khowai, Tripura, India",L0
+26.0538287,77.3690496,"Bijeypur, Madhya Pradesh 476332, India",L0
+25.3239743,73.005292,"Takhatgarh, Rajasthan 306912, India",L0
+9.8259645,78.2575816,"Tiruppuvanam, Tamil Nadu 630611, India",L0
+23.4958949,86.6762176,"Adra, West Bengal 723121, India",L0
+12.3383636,76.0965379,"Piriyapatna, Karnataka 571107, India",L0
+24.4745021,82.98778660000000,"Obra, Uttar Pradesh, India",L0
+23.1667043,72.58095,"Adalaj, Gujarat 382421, India",L0
+20.3068589,74.65459,"Nandgaon, Maharashtra 423106, India",L0
+25.4722676,85.70818420000000,"Barh, Bihar 803213, India",L0
+22.2186981,70.6029934,"Chhapra, Gujarat 360021, India",L0
+9.6008038,76.7437522,"Panamattom, Kerala 686522, India",L0
+24.5912459,78.41266,"Niwai, Uttar Pradesh 284403, India",L0
+29.8403606,79.769426,"Bageshwar, Uttarakhand 263642, India",L0
+20.7317002,83.6734049,"Tarbha, Odisha, India",L0
+12.8683532,74.9223386,"Adyar, Karnataka 575029, India",L0
+23.7148593,77.0881034,"Narsinghgarh, Madhya Pradesh 465669, India",L0
+21.4712098,78.2647004,"Warud, Maharashtra 444906, India",L0
+25.1475962,86.6875465,"Asarganj, Bihar 813201, India",L0
+29.320995,75.8345118,"Sarsod, Haryana 125121, India",L0

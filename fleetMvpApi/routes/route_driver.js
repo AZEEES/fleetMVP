@@ -20,6 +20,26 @@ router.post('/owned_by', (req, res, next)=>{
     })
 });
 
+router.post('/active_clients', (req, res, next)=>{
+    var owner_contact = req.body.owner_contact;
+    Driver.find({
+        owner_contact : owner_contact,
+        access : "yes"
+    }
+    ,(err, drivers)=>{
+        res.json(drivers);
+    })
+});
+
+
+router.post('/check_access', (req, res, next)=>{
+    var contact = req.body.driver_id;
+    Driver.find ({ contact : contact }
+    ,(err, drivers)=>{
+        res.json(drivers);
+    })
+})
+
 //adding drivers
 router.post('/',(req, res, next)=>{
     let newDriver = new Driver(req.body);
@@ -30,6 +50,36 @@ router.post('/',(req, res, next)=>{
         }
         else{
             res.json(driver);
+        }
+    })
+})
+
+//updating structures
+router.post('/update',(req, res, next)=>{
+    // console.log("Update function called");
+    let _id = req.body.id;
+    let driver_data = req.body.driver;
+    let driver = JSON.parse(driver_data);
+
+    Driver.find({ _id : _id }, (err, result)=>{
+        if(err){
+            res.json("Error : " + err);
+        }
+        else { 
+            let access = result[0].access;
+            if(access == "revoked"){
+                res.json({ "status" : "revoked" });
+            }
+            else{
+                Driver.findByIdAndUpdate(_id, driver, (err, result)=>{
+                    if(err){
+                        res.json("Error : " + err);
+                    }
+                    else{
+                        res.json({ "status" : "success" });
+                    }
+                })
+            }
         }
     })
 })

@@ -8,6 +8,7 @@ import io.realm.RealmConfiguration;
 public class FleetClientApplication extends Application {
 
     private String mServerIp = "10.0.2.2:3000";
+    private String mAccess = "NA";
 
 
     @Override
@@ -21,4 +22,7 @@ public class FleetClientApplication extends Application {
     public String get_Server_IP(){
         return mServerIp;
     }
+    public String getAccess(){ return mAccess; }
+    public void setAccess(String access){ mAccess = access; }
+
 }

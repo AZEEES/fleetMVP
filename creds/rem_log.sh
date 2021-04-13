@@ -1,0 +1,1 @@
+ssh -i "ZZpro.pem" ubuntu@ec2-3-143-245-198.us-east-2.compute.amazonaws.com

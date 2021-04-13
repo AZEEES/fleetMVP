@@ -13,6 +13,10 @@ const DriverSchema = mongoose.Schema({
     owner_contact : {
         type : String, 
         required : true
+    },
+    access : {
+        type : String,
+        required : true
     }
 
 });

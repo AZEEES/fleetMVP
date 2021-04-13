@@ -3,7 +3,9 @@ package com.example.fleetclient;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.Toast;
 
 import io.realm.Realm;
@@ -34,13 +36,22 @@ public class MainActivity extends AppCompatActivity {
             realm.commitTransaction();
         }
         realm.close();
+//        Intent intent = new Intent(MainActivity.this, LocationUpdateService.class);
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+//            MainActivity.this.startForegroundService(intent);
+//        } else {
+//            MainActivity.this.startService(intent);
+//        }
+//        Log.i("Autostart", "started");
         if((driver_contact.equals(""))) {
             Intent loginIntent = new Intent(MainActivity.this, LoginActivity.class);
             startActivity(loginIntent);
         }
         else {
-            Intent homeIntent = new Intent(MainActivity.this, HomeActivity.class);
-            startActivity(homeIntent);
+//            Intent homeIntent = new Intent(MainActivity.this, HomeActivity.class);
+//            startActivity(homeIntent);
+            Intent startupServiceIntent = new Intent(MainActivity.this, StartupService.class);
+            startService(startupServiceIntent);
         }
     }
 }

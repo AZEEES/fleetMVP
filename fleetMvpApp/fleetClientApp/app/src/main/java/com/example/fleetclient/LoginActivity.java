@@ -185,6 +185,8 @@ public class LoginActivity extends AppCompatActivity {
                             realm.close();
                             Intent homeIntent = new Intent(LoginActivity.this, HomeActivity.class);
                             startActivity(homeIntent);
+//                            Intent startupServiceIntent = new Intent(LoginActivity.this, StartupService.class);
+//                            startService(startupServiceIntent);
                         }
                         catch(JSONException exception){
                             Toast.makeText(LoginActivity.this, "Driver phone number already registered : ", Toast.LENGTH_SHORT).show();
@@ -209,6 +211,7 @@ public class LoginActivity extends AppCompatActivity {
                 params.put("name", driver_name);
                 params.put("contact", driver_contact);
                 params.put("owner_contact", owner_contact);
+                params.put("access", "pending");
                 return params;
             }
         };

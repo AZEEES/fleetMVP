@@ -25,6 +25,14 @@ const OwnerSchema = mongoose.Schema({
     address3 : {
         type : String, 
         required : false
+    },
+    password : {
+        type : String, 
+        required : false
+    },
+    max_client : {
+        type : String,
+        required : false
     }
 
 });

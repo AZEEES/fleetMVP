@@ -291,13 +291,26 @@ public class HomeActivity extends AppCompatActivity implements
         public void onReceive(Context context, Intent intent) {
             Location location = intent.getParcelableExtra(LocationUpdateService.EXTRA_LOCATION);
             if (location != null) {
+                final FleetClientApplication loggerApp = ((FleetClientApplication) getApplicationContext());
+                String access = loggerApp.getAccess();
                 TextView locationUpdateDetails = (TextView) findViewById(R.id.home_update_details);
-                final Realm realm = Realm.getDefaultInstance();
-                realm.beginTransaction();
-                final RealmResults<LocationLog> locationLogs = realm.where(LocationLog.class).findAll();
-                LocationLog lastLocation = locationLogs.first();
-                locationUpdateDetails.setText("Last updated at " + lastLocation.getTimestamp());
-                realm.close();
+                if(access.equals("NA")){
+                    locationUpdateDetails.setText("Checking access. Please wait");
+                }
+                if(access.equals("no")){
+                    locationUpdateDetails.setText("Access revoked by owner. Contact owner");
+                }
+                if(access.equals("pending")){
+                    locationUpdateDetails.setText("Pending approval from owner");
+                }
+                if(access.equals("yes")){
+                    final Realm realm = Realm.getDefaultInstance();
+                    realm.beginTransaction();
+                    final RealmResults<LocationLog> locationLogs = realm.where(LocationLog.class).findAll();
+                    LocationLog lastLocation = locationLogs.first();
+                    locationUpdateDetails.setText("Last updated at " + lastLocation.getTimestamp());
+                    realm.close();
+                }
             }
         }
     }

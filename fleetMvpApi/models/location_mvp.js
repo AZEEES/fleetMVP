@@ -16,6 +16,10 @@ const LocationSchema = mongoose.Schema({
     timestamp :{
         type : String,
         required : true
+    },
+    city_name : {
+        type : String,
+        required : false
     }
 
 });

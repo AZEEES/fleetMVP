@@ -9,6 +9,7 @@ var path = require('path');
 const route_owner = require('./routes/route_owner.js');
 const route_driver = require('./routes/route_driver.js');
 const route_location = require('./routes/route_location.js');
+const route_coordinates = require('./routes/route_coordinates.js');
 
 //test for trial
 
@@ -25,6 +26,7 @@ app.use(express.urlencoded());
 app.use('/api/owner', route_owner);
 app.use('/api/driver', route_driver);
 app.use('/api/location', route_location);
+app.use('/api/coordinates', route_coordinates);
 
 
 const uri = "mongodb+srv://fleetAdmin:ZZpro@981@cluster0.rvujb.mongodb.net/fleetDb?retryWrites=true&w=majority";

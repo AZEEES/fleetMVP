@@ -21,9 +21,48 @@ router.post('/get_details', (req, res, next)=>{
             res.json("Error")
         }
         else{
+            for(i =0; i<owners.length;i++){
+                owners[i].password = "";
+            }
             res.json(owners);
         }
     })
+})
+
+
+router.post('/check_creds', (req, res, next)=>{
+    var contact = req.body.contact;
+    var password = req.body.password;
+    Owner.find({
+        contact : contact, 
+        password : password
+    }, (err, owners) =>{
+        if(err){
+            res.json("Error")
+        }
+        else{
+            for(i =0; i<owners.length;i++){
+                owners[i].password = "";
+            }
+            res.json(owners);
+        }
+    })
+})
+
+
+router.post('/update',(req, res, next)=>{
+    let _id = req.body.id;
+    let owner_data = req.body.owner;
+    let owner = JSON.parse(owner_data);
+    Owner.findByIdAndUpdate(_id, owner, (err, result)=>{
+        if(err){
+            res.json("Error : " + err);
+        }
+        else{
+            res.json({"status" : "success"});
+        }
+    })
+    // res.json("success");
 })
 
 
