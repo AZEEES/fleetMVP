@@ -6,7 +6,7 @@ import math
 import time
 
 api_key = "AIzaSyAKmKRd6i8I_4PVNtZqBmj4hnGAaOy1RgQ"
-server_ip = "http://localhost:3000"
+server_ip = "http://3.143.245.198:3000"
 min_geocode_diff = 0.05 #6Km
 gmaps = googlemaps.Client(key=api_key)
 
